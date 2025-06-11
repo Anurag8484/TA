@@ -1,0 +1,3 @@
+from app.clean.json_to_md import extract_markdown_from_discourse_json
+
+extract_markdown_from_discourse_json()
