@@ -1,0 +1,2371 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 557632,
+        "name": "Sridhar S",
+        "username": "23f1000178",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000178/{size}/87445_2.png",
+        "created_at": "2024-11-20T03:09:06.372Z",
+        "cooked": "<p>The design of TDS course lecture videos are designed in such a way that it could be understood only by the data scientists not by the students like me who are entirely new to the field of data science. Though I have gone through 6weeks of course lecture videos, I am not fully aware of the usage of ChromeDevTools, Bash, Github etc. It will be useful to understand the core principles of the tools, if the course lecture documents with respect to TDS is uploaded in the IITM site. Hope this comment is taken in a positive way.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-22T08:53:37.270Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 107,
+        "readers_count": 106,
+        "score": 66.2,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Sridhar S",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15994,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/1",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 557668,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2024-11-20T05:32:50.329Z",
+        "cooked": "<p><strong>Term 1: German</strong>. In my first term at IIT Madras (1992), I took German 1 with Prof D Subramanian.</p>\n<p>The first words D.Subs said when he entered the room were, “Wer sind Sie?”</p>\n<p>I had no clue what he was talking about. Nor did the others. After individually asking about a dozen students, Ashok Krishna replied, “Ich bin Ashok.” (He knew German.)</p>\n<p>The rest of the term proceeded in the same vein. He threw us in the deep end, spoke only German, and I ended up with a “D” and learning very little German. Ashok Krishna thrived in that course.</p>\n<p><strong>Term 2: German</strong>. In took German 2 with Mrs Schindler in the next term. The experience was very different. She explained each word. She had us listen to tapes in German. It was very relaxed.</p>\n<p>I ended up with a “B” and learning very little German. (I’m not good with human languages.) But many others enjoyed it.</p>\n<p><strong>Which is better?</strong> I’m not sure. I think gentle courses are good for beginners and tough ones for advanced student, but classes usually have a mix of both. Aptitude and interest help, too.</p>\n<p><strong>Term 1: Physics</strong>. Prof. PC Deshmukh handled our first physics course. (He was the one responsible for renaming Mardi Gras “Saarang”.) Our class felt the exams were too tough. My friend Badri and I explained this to him. “Well, <em>you two</em> should be lobbying for even tougher exams,” PCD said. “That’ll benefit smarter guys like you more.”</p>\n<p><strong>IIMB Term 1: Statistics</strong>. My classmate Athreya Sampath was a class representative for statistics (a tough subject.) Going against tradition, he lobbied for a <em>tougher</em> test. He was almost lynched afterwards.</p>\n<p><strong>Which is better?</strong> I’m not sure. An easy exam is good for student grades and morale. A tough exam is good for college reputation and advanced students. Classes usually need both.</p>\n<hr>\n<p>In short, I have no clue.</p>\n<p>Students who take this course learn several topics 3 months.</p>\n<p>Faculty like me haven’t managed to learn how to calibrate course content or exams even after 3 years.</p>\n<p>But, I’m learning. Thanks to you.</p>\n<p>So please keep the feedback coming. We’ll keep improving. And thanks for putting up with us!</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-20T05:32:50.329Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 104,
+        "readers_count": 103,
+        "score": 75.6,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/2",
+        "user_cakedate": "2022-01-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 557738,
+        "name": "Sridhar S",
+        "username": "23f1000178",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000178/{size}/87445_2.png",
+        "created_at": "2024-11-20T10:13:16.255Z",
+        "cooked": "<p>Sir,<br>\nMy postings is not with respect to grades/scores obtained. I wrote only with respect to understanding the concepts. My intention is, if the lectures are from root level I can grasp it in a better manner. I am not having a intent to find fault with the course design. If you take in that sense I am so sorry for my earlier writing.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-20T10:13:16.255Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 91,
+        "readers_count": 90,
+        "score": 28.2,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Sridhar S",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15994,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/3",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 557739,
+        "name": "Adith Senthil",
+        "username": "adiths",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/adiths/{size}/66730_2.png",
+        "created_at": "2024-11-20T10:15:59.363Z",
+        "cooked": "<p>The examples you mentioned involve optional subjects, you <em>chose</em> german but in this course TDS is a compulsory subject. Besides, IITs and IIMs are already meant for the smartest of the smartest, whereas this course is meant to be accessible to anyone, with no background knowledge required.</p>\n<p>I don’t think this course is particularly hard, but it is definitely more time intensive and involved than other courses at this level. It does NOT feel like a 3 credit course in terms of workload. Issues that I think are quite apparent are-</p>\n<ul>\n<li>Pre-requisite knowledge required - Some of us students pick this course based on the description in the BS degree website, and only after doing week 0 do we realize how underequipped we are. The course description should be updated to reflect these requirements, and the necessary pre/co requisite courses should be added to the list.</li>\n<li>Operational issues - Discourse is filled with them, I think most of these will be resolved in time.</li>\n</ul>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-20T10:15:59.363Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 91,
+        "readers_count": 90,
+        "score": 78.2,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Adith Senthil",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 9419,
+          "username": "s.anand",
+          "name": "Anand S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21209,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/4",
+        "user_cakedate": "2023-06-28",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 557741,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2024-11-20T10:18:06.093Z",
+        "cooked": "<p>No, not at all, Sridhar.</p>\n<p>To clarify: I have no idea how easy or difficult the content is. As I get feedback like yours, I am better able to fine tune it.</p>\n<p>Thanks for this input. As more people share feedback, I’ll collate it and tweak the course.</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-20T10:18:06.093Z",
+        "reply_count": 0,
+        "reply_to_post_number": 3,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 89,
+        "readers_count": 88,
+        "score": 47.8,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "reply_to_user": {
+          "id": 15994,
+          "username": "23f1000178",
+          "name": "Sridhar S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000178/{size}/87445_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/5",
+        "user_cakedate": "2022-01-03",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 557949,
+        "name": "S Rajakumari",
+        "username": "23ds2000091",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000091/{size}/66833_2.png",
+        "created_at": "2024-11-21T02:04:05.784Z",
+        "cooked": "<p>According to me any course in this Diploma programme is not easy. For every course we need to put in efforts to complete it. In this course, if there are more practice assignments (not graded) it will help us to understand the tools better.</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-21T02:04:05.784Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 86,
+        "readers_count": 85,
+        "score": 57.2,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "S Rajakumari",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19342,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/6",
+        "user_cakedate": "2023-06-08",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 558011,
+        "name": "Sridhar S",
+        "username": "23f1000178",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000178/{size}/87445_2.png",
+        "created_at": "2024-11-21T06:32:12.233Z",
+        "cooked": "<p>I don’t know why you all understand my posting in the wrong sense only. My posting is not with respect to getting grades/level of standard. Understand this first. Grading is not going to yield anything as for as I am concerned. I am studying this course only for gaining/improving knowledge. My posting is with respect to improving understanding level of subject core only.</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-21T06:32:12.233Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 85,
+        "readers_count": 84,
+        "score": 17.0,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Sridhar S",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 19342,
+          "username": "23ds2000091",
+          "name": "S Rajakumari",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000091/{size}/66833_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15994,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/7",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 558013,
+        "name": "S Rajakumari",
+        "username": "23ds2000091",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000091/{size}/66833_2.png",
+        "created_at": "2024-11-21T06:41:46.110Z",
+        "cooked": "<p>Just to clarify. Mine earlier post is just a reply/feedback for Anand sir’s post on getting feedback.</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-21T06:42:35.393Z",
+        "reply_count": 0,
+        "reply_to_post_number": 6,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 85,
+        "readers_count": 84,
+        "score": 17.0,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "S Rajakumari",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 19342,
+          "username": "23ds2000091",
+          "name": "S Rajakumari",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000091/{size}/66833_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 19342,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/8",
+        "user_cakedate": "2023-06-08",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 558043,
+        "name": "Anirudh Komanduri",
+        "username": "22f1000522",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000522/{size}/12438_2.png",
+        "created_at": "2024-11-21T08:04:46.038Z",
+        "cooked": "<p>This course will be easier if taken at the end of the dual diploma, as most of the concepts like ChromeDevTools, Bash, and Github will have been introduced.</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-21T08:04:46.038Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 85,
+        "readers_count": 84,
+        "score": 17.0,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Anirudh Komanduri",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12079,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/9",
+        "user_cakedate": "2022-04-30",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 558226,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2024-11-22T06:01:32.220Z",
+        "cooked": "<p>Given that I want students to learn much as possible, here’s something I’m in two minds about.</p>\n<ul>\n<li>The course workload is high. So less reading material will help.</li>\n<li>The course has many prerequisites. So more pre-read material will help.</li>\n</ul>\n<p>Those are both valid but different directions.</p>\n<p>What do you all think the students of this course will prefer?<br>\nAre there ways of breaking the compromise?</p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-22T06:01:32.220Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 85,
+        "readers_count": 84,
+        "score": 26.8,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/10",
+        "user_cakedate": "2022-01-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 558268,
+        "name": "Sid",
+        "username": "22f3003031",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+        "created_at": "2024-11-22T09:02:55.685Z",
+        "cooked": "<p>It’s hectic for sure! Extensive effort by you/team is very evident. Personally, I’m enjoying the pace, content and the learnings.</p>\n<p>For the issue raised, I suggest we work on pre-reqs. As I see it, two ways to do this -</p>\n<ol>\n<li>collaborate internally with other teams to introduce these concepts alongside. For instance, MAD1 can introduce GitHub, devtools; BDM can provide overview about LLMs; programming aspects are already covered at this stage so no change(python/colab. Note# TDS has no pre-requisite and students may not have taken these subjects yet. That brings us to next point</li>\n<li>TDS focused independent pre-reqs. In this direction, we already have Module 1, Everyday Tools. My suggestion would be to strengthen this -</li>\n</ol>\n<ul>\n<li>a) categorise the content/videos. A brief on why are we learning these, for which section/purpose, and to what outcome. Today, they are just embedded videos</li>\n<li>b) Introduce PAs, as in other subjects. Say one dedicated PA on GitHub, another on LLM, and may be one more on devtools (totally based on the coverage required for the subject)</li>\n</ul>\n<p>Additionally -</p>\n<ul>\n<li>unlike other courses, this one is very fast-paced and ever-changing. You may want to consider additional staffing, comm efforts, and increased frequency of sessions.</li>\n<li>To optimise the pace and redistribute some of the load, I suggest we revisit Module 6 (Geo/Network), both on content (misaligned with existing flow of “tools”) and sequence (may be after Module 8?). How about we introduce this as an optional Module?</li>\n</ul>\n<p>Thank you</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-22T09:03:49.582Z",
+        "reply_count": 1,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 83,
+        "readers_count": 82,
+        "score": 56.4,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Sid",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 9419,
+          "username": "s.anand",
+          "name": "Anand S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16762,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/12",
+        "user_cakedate": "2023-02-07",
+        "user_birthdate": "1904-11-08",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 558269,
+        "name": "Anand S",
+        "username": "s.anand",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "created_at": "2024-11-22T09:06:44.002Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/22f3003031\">@22f3003031</a> Interesting! A few quick questions:</p>\n<ol>\n<li>What does PA stand for? Assuming that’s an assistant, what do they do in other courses?</li>\n<li>How often do other courses change content across terms?</li>\n</ol>",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-22T09:06:44.002Z",
+        "reply_count": 1,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 78,
+        "readers_count": 77,
+        "score": 20.4,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Anand S",
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_bg_color": "f2c26e",
+        "flair_color": "000",
+        "flair_group_id": 54,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Course_faculty",
+        "title_is_group": true,
+        "reply_to_user": {
+          "id": 16762,
+          "username": "22f3003031",
+          "name": "Sid",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 9419,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/13",
+        "user_cakedate": "2022-01-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 558274,
+        "name": "Ankit Sharma",
+        "username": "AnkitS",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ankits/{size}/110164_2.png",
+        "created_at": "2024-11-22T09:26:35.764Z",
+        "cooked": "<p>PA stands for practice assignment in this context. Regarding the content change, not that much apart from some necessary improvement. GAs(Graded assignments) remains same leading to a possibility of students just using the answers given by previous students, without actually solving them.</p>",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-22T09:26:35.764Z",
+        "reply_count": 0,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 84,
+        "readers_count": 83,
+        "score": 31.6,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Ankit Sharma",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 9419,
+          "username": "s.anand",
+          "name": "Anand S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 12026,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/14",
+        "user_cakedate": "2022-04-30",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 558409,
+        "name": "Bahni Roy",
+        "username": "24ds3000100",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+        "created_at": "2024-11-22T19:14:37.321Z",
+        "cooked": "<p>First of all, I’d like to thank Prof. Anand and the teaching assistants for this course. This course is industry relevant, immersive, frequently updated and the content is extremely valuable. The projects and the ROE are creative, engaging and interesting. Being unique in each term, a significant amount of preparation and deliberation have gone into creating and publishing the tests.</p>\n<p>I would suggest not to alter the structure of the course (e.g. not to reduce the content but if possible, make this course a 4 credit course by adding 4 weeks of additional content in the future terms) because by the end of this course, a student will know an assortment of tools to choose from for a given data science problem statement.</p>\n<p>A few suggestions (please note: they are in response only to Prof. Anand’s note and do not refer to any other note in this thread):</p>\n<p>From a student’s standpoint:</p>\n<ol>\n<li>Students who have already completed MLP, BDM, BA, MAD1/2, DBMS courses from the program will find this course relatively simpler. So if it is feasible on a student’s part, one option is to take this course after one has completed some of these courses because they will already have a reasonable grasp on ML libraries, javascript (TypeScript/ReactJS/VueJS/nodejs if I am not mistaken) plus SQL (as part of DBMS course). However, there are students who are just taking the diploma course (and do not neccessarily study MAD1/2, DBMS). In terms of co-requisites, for anyone who is pursuing a diploma in Data Science (and not diploma in programming), having MLP as a co-requisite will help.</li>\n<li>It will be helpful if number of courses in a term is chosen based on one’s available bandwidth (whether one can spend that many hours/week as indicated in the course description page per course times the number of subjects chosen). Speaking from a personal experience, this is my first term in this program and with 4 courses (2 of them being math courses), I haven’t been able to complete some of the TA sessions in TDS throughout all the weeks in this course, so I believe, unless this point is taken care of by a student (at the beginning of each term), the material (in any course) can get quickly overwhelming only because one does not have enough time to complete all the material published in a particular week,</li>\n</ol>\n<p>From a course standpoint (please ignore any if they have already been explored or deliberated on before and were deemed infeasible (from an operations standpoint or otherwise)):</p>\n<ol>\n<li>\n<p>Please check the feasibility of introducing gamification in couple of foundational modules (say, for example, a sandbox wherein a student can debug through a set of 15-20 html/javascript/css/python - calibrated questions of progressively increasing difficulty). The code can have some deliberate errors, for example. A marginal bonus may be added to the GA score.</p>\n</li>\n<li>\n<p>As a precursor to above, I think a few additional videos on the following topics will be helpful in setting the context for the material that follows:</p>\n</li>\n</ol>\n<ul>\n<li>HTML/CSS/Javascript and Python debugging foundations (debugging using a visual debugger as opposed to log statements)</li>\n<li>Tools to view data in transit in a data transformation pipeline (for instance, additional coverage on tools such as Data Wrangler)</li>\n<li>Concept of an API - essentials of an API, how to debug GET/POST requests using a visual software such as Postman will help someone who is familiar with Python (assuming everyone in this course is) but is not familiar (yet) with the concepts of an API.</li>\n</ul>\n<ol start=\"3\">\n<li>Please check the feasibility of introducing a TDS Wiki page (say, on Github) with curated, byte sized tips and tricks (the key here is bite sized nuggets of information, all collated in one location for ease of reference - one inclusion criteria, let’s say something that could be read and understood in under 5 minutes by most - highly useful, yet simple techniques, with snippets of code inline, for example “how to show progress bar for a for loop in python using tqdm() as demonstrated in one of the course videos”). Topics in the Wiki could include (among others):</li>\n</ol>\n<ul>\n<li>General debugging techniques (Web technologies (JS/html/css) or Python - for example, in a format similar to <a href=\"https://umaar.com/dev-tips/23-debugger-shortcuts/\" rel=\"noopener nofollow ugc\">dev-tips</a>)</li>\n<li>Data wrangling techniques - how to think of interesting ways of transforming data (say, why and how one combines dataframes to get to the data needed to solve a problem - techniques (through examples) on how does one break down a data related problems into sub-problems, what’s the thoughprocess involved in such operations, what is the standard approach of debugging etc.)</li>\n<li>Prompt engineering techniques (for example, what are some of the creative ways of using LLM as a coding, debugging, automation and creative assistance)</li>\n<li>VS Code tips and tricks (examples, multi cursor editing, how to create snippets of code for reuse, how to use AI completion, Codeium for example)</li>\n</ul>\n<p>Pull requests can be invited and, as an option, a marginal bonus awarded for contributions.</p>\n<ol start=\"4\">\n<li>\n<p>The TA sessions that I have watched so far covers lot of concepts and are well presented - please verify if it is possible to condense the sessions on web scraping (html, cookies, xml, for example) which are more than 2 hours long into condensed videos (say, in the 20-30 minutes timeframe).</p>\n</li>\n<li>\n<p>Please verify if concept of Teams will work in the context of the course. Since the data science program is (almost) entirely online, one of the challenges a section of students face is having a quick, face to face conversation with an expert (at a mutually agreed upon time) when they have something blocking their progress (this is in sharp contrast to an offline program or working in the industry). The teaching assistants in this course have helped immensely in terms of answering questions and conducting TA sessions where they have answered specific questions students have. I think, this concept may be extended by forming teams say a group of 2-3 students (with varying experience levels - one of them preferably with industry experience) who group together (over a call for a predefined interval of time) periodically (say, a few times in a month) and have a one on one conversations on anything that is blocking their progress (in terms of prerequisites one should know) or just general guidance.<br>\nHaving said so, the biggest downside that I see of institutionalizing teams is that such a channel may quickly degrade to a channel that is leveraged only to finish assignments and projects by exchanging code (without necessarily spending time in understanding the code and the related concepts)  - that defeats the whole purpose of using a channel to only receive general guidance. Concept of Teams may work where a significant portion (say 80% or more of the overall score) is proctored. With 70% of this course’s score being unproctored, I think a concept that works so well in the industry (the mentor concept), will quickly deteriorate to being a mechanism to just score more marks. However, I am listing the concept anyways.</p>\n</li>\n</ol>",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-11-22T19:41:11.119Z",
+        "reply_count": 0,
+        "reply_to_post_number": 10,
+        "quote_count": 0,
+        "incoming_link_count": 4,
+        "reads": 86,
+        "readers_count": 85,
+        "score": 97.0,
+        "yours": false,
+        "topic_id": 156882,
+        "topic_slug": "tools-in-data-science-course-lecture-videos",
+        "display_username": "Bahni Roy",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://umaar.com/dev-tips/23-debugger-shortcuts/",
+            "internal": false,
+            "reflection": false,
+            "title": "JavaScript call stack debugging - Chrome DevTools - Dev Tips",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 9419,
+          "username": "s.anand",
+          "name": "Anand S",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 40077,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/tools-in-data-science-course-lecture-videos/156882/15",
+        "user_cakedate": "2024-10-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          },
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      557632,
+      557668,
+      557738,
+      557739,
+      557741,
+      557949,
+      558011,
+      558013,
+      558043,
+      558226,
+      558268,
+      558269,
+      558274,
+      558409
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      203
+    ],
+    [
+      6,
+      202
+    ],
+    [
+      10,
+      201
+    ],
+    [
+      14,
+      200
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 169029,
+      "title": "Project 2 - TDS Solver - Discussion Thread",
+      "fancy_title": "Project 2 - TDS Solver - Discussion Thread",
+      "slug": "project-2-tds-solver-discussion-thread",
+      "posts_count": 690,
+      "reply_count": 415,
+      "highest_post_number": 715,
+      "image_url": null,
+      "created_at": "2025-03-03T03:42:18.928Z",
+      "last_posted_at": "2025-04-25T17:08:56.564Z",
+      "bumped": true,
+      "bumped_at": "2025-04-25T17:08:56.564Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 478,
+      "unread": 0,
+      "new_posts": 237,
+      "unread_posts": 237,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "announcement",
+        "term1-2025",
+        "tds-project-2"
+      ],
+      "tags_descriptions": {},
+      "like_count": 478,
+      "views": 4477,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 18297,
+            "username": "23f1002382",
+            "name": "Andrew David",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002382/{size}/68945_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 13078,
+            "username": "Saransh_Saini",
+            "name": "Saransh Saini",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 35950,
+            "username": "Algsoch",
+            "name": "Vicky Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/algsoch/{size}/111675_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178649,
+      "title": "Guide for tds project 1",
+      "fancy_title": "Guide for tds project 1",
+      "slug": "guide-for-tds-project-1",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-10T09:01:10.396Z",
+      "last_posted_at": "2025-06-10T12:16:18.088Z",
+      "bumped": true,
+      "bumped_at": "2025-06-10T12:16:18.088Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term1-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 56,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 16079,
+            "username": "22f3000658",
+            "name": "Hardik Mehta ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/fbc32d/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 24803,
+            "username": "23f2003651",
+            "name": "Akshobh Verma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003651/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178618,
+      "title": "Submissions of Weekly Graded Assignment of TDS",
+      "fancy_title": "Submissions of Weekly Graded Assignment of TDS",
+      "slug": "submissions-of-weekly-graded-assignment-of-tds",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/b/ebebd516796a3f6ff08278e4eb8ee662f7b7158e.jpeg",
+      "created_at": "2025-06-10T06:34:51.065Z",
+      "last_posted_at": "2025-06-10T06:34:51.383Z",
+      "bumped": true,
+      "bumped_at": "2025-06-10T06:34:51.383Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "course-portal",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 22,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 45768,
+            "username": "24f1002463",
+            "name": "Mythili",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1002463/{size}/119814_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "diploma-level",
+    "term3-2024"
+  ],
+  "tags_descriptions": {},
+  "id": 156882,
+  "title": "Tools in Data Science Course Lecture Videos",
+  "fancy_title": "Tools in Data Science Course Lecture Videos",
+  "posts_count": 14,
+  "created_at": "2024-11-20T03:09:06.155Z",
+  "views": 270,
+  "reply_count": 9,
+  "like_count": 20,
+  "last_posted_at": "2024-11-22T19:14:37.321Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "tools-in-data-science-course-lecture-videos",
+  "category_id": 34,
+  "word_count": 2510,
+  "deleted_at": null,
+  "user_id": 15994,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_156882",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 15,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 8,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 32104,
+      "title": "TDS Lecture videos/tutorials - who are they made for?",
+      "fancy_title": "TDS Lecture videos/tutorials - who are they made for?",
+      "slug": "tds-lecture-videos-tutorials-who-are-they-made-for",
+      "posts_count": 50,
+      "reply_count": 37,
+      "highest_post_number": 50,
+      "image_url": null,
+      "created_at": "2022-02-03T09:03:44.596Z",
+      "last_posted_at": "2022-02-23T18:26:47.926Z",
+      "bumped": true,
+      "bumped_at": "2022-02-23T18:26:47.926Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 50,
+      "unread": 0,
+      "new_posts": 0,
+      "unread_posts": 0,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 1,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "week-5"
+      ],
+      "tags_descriptions": {},
+      "like_count": 81,
+      "views": 615,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 933,
+            "username": "Anand",
+            "name": "Anand Iyer",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/anand/{size}/1555_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Accepted Answer",
+          "user": {
+            "id": 7904,
+            "username": "ravitejak",
+            "name": "Ravi Teja",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ravitejak/{size}/12849_2.png",
+            "primary_group_name": "course_support",
+            "flair_name": "course_support",
+            "flair_url": "scale-balanced",
+            "flair_bg_color": "0040ff",
+            "flair_color": "1affc6",
+            "flair_group_id": 41,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 2192,
+            "username": "mukeshonlines",
+            "name": "Mukesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/mukeshonlines/{size}/201_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1021,
+            "username": "CKPIITM",
+            "name": "Chandan kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ckpiitm/{size}/1619_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 1850,
+            "username": "Nil",
+            "name": "NILOTPAL CHAKRABORTY",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nil/{size}/5256_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 143625,
+      "title": "End term exam prep",
+      "fancy_title": "End term exam prep",
+      "slug": "end-term-exam-prep",
+      "posts_count": 17,
+      "reply_count": 12,
+      "highest_post_number": 17,
+      "image_url": null,
+      "created_at": "2024-08-22T06:16:46.387Z",
+      "last_posted_at": "2024-08-31T05:42:36.600Z",
+      "bumped": true,
+      "bumped_at": "2024-08-31T05:42:36.600Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "end-term-exam"
+      ],
+      "tags_descriptions": {},
+      "like_count": 42,
+      "views": 558,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 15826,
+            "username": "iitmanupam",
+            "name": "Anupam Chandra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Accepted Answer",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12332,
+            "username": "amoghanshu",
+            "name": "Amogh Anshu N",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amoghanshu/{size}/47979_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 13282,
+            "username": "22f1001809",
+            "name": "Nirmala ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001809/{size}/15091_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 160097,
+      "title": "My Feedback for this Course",
+      "fancy_title": "My Feedback for this Course",
+      "slug": "my-feedback-for-this-course",
+      "posts_count": 5,
+      "reply_count": 1,
+      "highest_post_number": 5,
+      "image_url": null,
+      "created_at": "2024-12-23T10:59:36.850Z",
+      "last_posted_at": "2025-04-29T12:31:33.572Z",
+      "bumped": true,
+      "bumped_at": "2025-04-29T12:31:33.572Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "miscellaneous"
+      ],
+      "tags_descriptions": {},
+      "like_count": 3,
+      "views": 173,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 21929,
+            "username": "23f1001947",
+            "name": "amit_kulkarni",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001947/{size}/133968_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 29417,
+            "username": "lifelonglearner",
+            "name": "Prasad",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/lifelonglearner/{size}/67019_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 17759,
+            "username": "23f1001823",
+            "name": "SHOBHIT SHARMA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1001823/{size}/66937_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 24799,
+      "title": "2 Videos for week-1",
+      "fancy_title": "2 Videos for week-1",
+      "slug": "2-videos-for-week-1",
+      "posts_count": 3,
+      "reply_count": 0,
+      "highest_post_number": 3,
+      "image_url": null,
+      "created_at": "2021-12-30T16:21:53.282Z",
+      "last_posted_at": "2022-01-04T04:41:29.871Z",
+      "bumped": true,
+      "bumped_at": "2022-01-04T04:41:29.871Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "week-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 100,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 2100,
+            "username": "RAJIB_KUMAR_BANERJEE",
+            "name": "RAJIB KUMAR BANERJEE",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rajib_kumar_banerjee/{size}/327_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 7906,
+            "username": "sathiesh",
+            "name": "Sathiesh",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/sathiesh/{size}/12463_2.png",
+            "primary_group_name": "course_support",
+            "flair_name": "course_support",
+            "flair_url": "scale-balanced",
+            "flair_bg_color": "0040ff",
+            "flair_color": "1affc6",
+            "flair_group_id": 41,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 1073,
+            "username": "priyansh",
+            "name": ".",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/278dde/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 144724,
+      "title": "How was your paper and overall experience of TDS",
+      "fancy_title": "How was your paper and overall experience of TDS",
+      "slug": "how-was-your-paper-and-overall-experience-of-tds",
+      "posts_count": 8,
+      "reply_count": 1,
+      "highest_post_number": 8,
+      "image_url": null,
+      "created_at": "2024-09-01T14:53:16.653Z",
+      "last_posted_at": "2024-09-03T08:20:21.780Z",
+      "bumped": true,
+      "bumped_at": "2024-09-03T08:20:21.780Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "miscellaneous"
+      ],
+      "tags_descriptions": {},
+      "like_count": 20,
+      "views": 189,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 8282,
+            "username": "21f3002243",
+            "name": "Palash_H",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3002243/{size}/13054_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 22602,
+            "username": "eram1011",
+            "name": "Eram Nishat",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/eram1011/{size}/102787_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6563,
+            "username": "21f3000759",
+            "name": "Swati Jain",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3000759/{size}/23528_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15826,
+            "username": "iitmanupam",
+            "name": "Anupam Chandra",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/iitmanupam/{size}/56694_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 13884,
+            "username": "22f1000022",
+            "name": "RAJESH RAMAKRISHNAN",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000022/{size}/67132_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 9419,
+        "username": "s.anand",
+        "name": "Anand S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+        "post_count": 4,
+        "primary_group_name": "faculty",
+        "flair_name": "faculty",
+        "flair_url": "chalkboard-user",
+        "flair_color": "000",
+        "flair_bg_color": "f2c26e",
+        "flair_group_id": 54,
+        "trust_level": 4
+      },
+      {
+        "id": 15994,
+        "username": "23f1000178",
+        "name": "Sridhar S",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000178/{size}/87445_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 19342,
+        "username": "23ds2000091",
+        "name": "S Rajakumari",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000091/{size}/66833_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 12079,
+        "username": "22f1000522",
+        "name": "Anirudh Komanduri",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1000522/{size}/12438_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 12026,
+        "username": "AnkitS",
+        "name": "Ankit Sharma",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ankits/{size}/110164_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 40077,
+        "username": "24ds3000100",
+        "name": "Bahni Roy",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 21209,
+        "username": "adiths",
+        "name": "Adith Senthil",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/adiths/{size}/66730_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16762,
+        "username": "22f3003031",
+        "name": "Sid",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 15994,
+      "username": "23f1000178",
+      "name": "Sridhar S",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1000178/{size}/87445_2.png"
+    },
+    "last_poster": {
+      "id": 40077,
+      "username": "24ds3000100",
+      "name": "Bahni Roy",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

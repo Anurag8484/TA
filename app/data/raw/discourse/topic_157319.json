@@ -1,0 +1,2536 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 559470,
+        "name": "Ramees",
+        "username": "21f3001934",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001934/{size}/110353_2.png",
+        "created_at": "2024-11-26T06:57:15.341Z",
+        "cooked": "<p>The data provided for question 2 and 3 has 3623 rows which means there can be max of 6,561,253 pairs.<br>\nBut the options are all above 6,800,000.<br>\nI am confused about how can this be, am I missing something?<br>\nCan someone clarify?</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-30T06:55:42.189Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 7,
+        "reads": 194,
+        "readers_count": 193,
+        "score": 88.8,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Ramees",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 13608,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/1",
+        "user_cakedate": "2022-05-11",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 559485,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-11-26T08:08:04.684Z",
+        "cooked": "<p>Can you share the question itself as it is parameterised for each student?</p>\n<p>Thanks</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-26T08:08:04.684Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 193,
+        "readers_count": 192,
+        "score": 48.6,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 559489,
+        "name": "Ramees",
+        "username": "21f3001934",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001934/{size}/110353_2.png",
+        "created_at": "2024-11-26T08:22:08.431Z",
+        "cooked": "<p>In <a href=\"https://drive.google.com/file/d/1kMyiG3bw-TunyfdeukYY64rImKz0FyQ0/view\" rel=\"noopener nofollow ugc\">eateries.csv</a>, count the number of pairs of eateries within <strong>649 meters</strong> of the each other.</p>\n<p>You need to find the distance between every pair of eateries and count the number of pairs that are within the given distance</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-26T08:22:08.431Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 190,
+        "readers_count": 189,
+        "score": 53.0,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Ramees",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://drive.google.com/file/d/1kMyiG3bw-TunyfdeukYY64rImKz0FyQ0/view",
+            "internal": false,
+            "reflection": false,
+            "title": "eateries.csv - Google Drive",
+            "clicks": 1
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 13608,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/3",
+        "user_cakedate": "2022-05-11",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 559492,
+        "name": "Bahni Roy",
+        "username": "24ds3000100",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+        "created_at": "2024-11-26T08:26:45.764Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a> You can use this example as well, as I have the same observation.<br>\nThere are 3623 eateries in the spreadsheet, so number of pairs is 3623 C 2 which is 6,561,253 pairs (so that would be the upperbound of the answer for any variant of this question using this spreadsheet with different vaues for the distance that can vary from question to question). As you can see in the options below, all of the 4 answers exceed this upperbound. My computed answer is a 6 digit number (cross verified with GPT 4 and Claude Sonnet just to be sure).</p>\n<p>In <a href=\"https://drive.google.com/file/d/1kMyiG3bw-TunyfdeukYY64rImKz0FyQ0/view\" rel=\"noopener nofollow ugc\">eateries.csv</a>, count the number of pairs of eateries within <strong>558 meters</strong> of the each other.</p>\n<p>You need to find the distance between every pair of eateries and count the number of pairs that are within the given distance.<br>\n6,778,391<br>\n6,778,411<br>\n6,778,421<br>\n6,778,401</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-26T08:31:36.659Z",
+        "reply_count": 1,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 185,
+        "readers_count": 184,
+        "score": 42.0,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Bahni Roy",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 3,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://drive.google.com/file/d/1kMyiG3bw-TunyfdeukYY64rImKz0FyQ0/view",
+            "internal": false,
+            "reflection": false,
+            "title": "eateries.csv - Google Drive",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 40077,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/4",
+        "user_cakedate": "2024-10-04",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 559614,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-11-26T14:50:03.313Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/21f3001934\">@21f3001934</a> <a class=\"mention\" href=\"/u/24ds3000100\">@24ds3000100</a></p>\n<p>Hi,</p>\n<p>Thanks for flagging it. We will inform operations and we will correct the answer options in a day or so.</p>\n<p>Kind regards</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-26T14:50:03.313Z",
+        "reply_count": 2,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 179,
+        "readers_count": 178,
+        "score": 105.8,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 40077,
+          "username": "24ds3000100",
+          "name": "Bahni Roy",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/5",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 2
+          },
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 560406,
+        "name": "Bijoy Biju Varghese",
+        "username": "22f2000816",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000816/{size}/13960_2.png",
+        "created_at": "2024-11-29T08:35:08.797Z",
+        "cooked": "<p>Is there any update on this?  Answers given for the above two questions are  not  at all matching.</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-29T08:35:08.797Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 174,
+        "readers_count": 173,
+        "score": 49.8,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Bijoy Biju Varghese",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 14358,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/6",
+        "user_cakedate": "2022-09-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 560415,
+        "name": "PREENA SALIM",
+        "username": "24ds1000042",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds1000042/{size}/67340_2.png",
+        "created_at": "2024-11-29T09:04:51.629Z",
+        "cooked": "<p>The options are not updated yet. <a class=\"mention\" href=\"/u/carlton\">@carlton</a> <a class=\"mention\" href=\"/u/jivraj\">@Jivraj</a></p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-29T09:04:51.629Z",
+        "reply_count": 1,
+        "reply_to_post_number": 5,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 170,
+        "readers_count": 169,
+        "score": 39.0,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "PREENA SALIM",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 26413,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/7",
+        "user_cakedate": "2024-01-31",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 560540,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-11-29T15:01:39.604Z",
+        "cooked": "<p>Operations have been informed and given the corrected key. Just waiting on them to push it to the portal.</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-29T15:01:39.604Z",
+        "reply_count": 2,
+        "reply_to_post_number": 7,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 167,
+        "readers_count": 166,
+        "score": 58.4,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 26413,
+          "username": "24ds1000042",
+          "name": "PREENA SALIM",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds1000042/{size}/67340_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/8",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 560715,
+        "name": "Shubham Shah",
+        "username": "Shubham_Shah",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/db5fbb/{size}.png",
+        "created_at": "2024-11-30T06:48:28.186Z",
+        "cooked": "<p>I feel that the options to q2 and q3 for graded assignment in week 6 are invalid. Since the total number of pairs is less than the options provided.</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-11-30T06:55:03.300Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 185,
+        "readers_count": 184,
+        "score": 42.0,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Shubham Shah",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 8495,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/9",
+        "user_cakedate": "2021-12-29",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561057,
+        "name": "Ramakrishna Dudi",
+        "username": "23ds1000051",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds1000051/{size}/67270_2.png",
+        "created_at": "2024-12-01T00:49:31.396Z",
+        "cooked": "<p>I am facing a similar issue where the answers for questions 2 and 3 do not match the options provided.  Please review and correct the questions?</p>",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-01T00:49:31.396Z",
+        "reply_count": 0,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 161,
+        "readers_count": 160,
+        "score": 32.2,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Ramakrishna Dudi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 8495,
+          "username": "Shubham_Shah",
+          "name": "Shubham Shah",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/db5fbb/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 16118,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/11",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561152,
+        "name": "Adith Senthil",
+        "username": "adiths",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/adiths/{size}/66730_2.png",
+        "created_at": "2024-12-01T14:35:33.304Z",
+        "cooked": "<p>Have the options been fixed?</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-01T14:35:33.304Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 160,
+        "readers_count": 159,
+        "score": 32.0,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Adith Senthil",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 21209,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/12",
+        "user_cakedate": "2023-06-28",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561185,
+        "name": "Pradeep Kumar P",
+        "username": "kumarpa",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kumarpa/{size}/68254_2.png",
+        "created_at": "2024-12-01T17:50:14.609Z",
+        "cooked": "<p><a class=\"mention\" href=\"/u/carlton\">@carlton</a><br>\nQuestion number 7 are we referring to total users count (ie number of pairs x 2) or number of pairs?</p>\n<p>Answer i get is half of the value provided in the option</p>",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-01T17:50:14.609Z",
+        "reply_count": 2,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 159,
+        "readers_count": 158,
+        "score": 61.8,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Pradeep Kumar P",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15556,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/13",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-11",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561189,
+        "name": "Vikram Singh Negi",
+        "username": "vikram_negi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikram_negi/{size}/98544_2.png",
+        "created_at": "2024-12-01T18:32:45.707Z",
+        "cooked": "<p>Same, I believe there is a mistake in the options.</p>",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-01T18:32:45.707Z",
+        "reply_count": 0,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 163,
+        "readers_count": 162,
+        "score": 37.6,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Vikram Singh Negi",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 15556,
+          "username": "kumarpa",
+          "name": "Pradeep Kumar P",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kumarpa/{size}/68254_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15889,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/14",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561555,
+        "name": "Saloni Singh",
+        "username": "Saloni",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saloni/{size}/66907_2.png",
+        "created_at": "2024-12-03T05:27:23.789Z",
+        "cooked": "<p>Yes, I have the same issue. Kindly clarify <a class=\"mention\" href=\"/u/carlton\">@carlton</a></p>",
+        "post_number": 15,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-03T05:27:23.789Z",
+        "reply_count": 0,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 2,
+        "reads": 159,
+        "readers_count": 158,
+        "score": 41.8,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Saloni Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 15556,
+          "username": "kumarpa",
+          "name": "Pradeep Kumar P",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kumarpa/{size}/68254_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 27245,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/15",
+        "user_cakedate": "2024-02-03",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561582,
+        "name": "Payal Agrawal",
+        "username": "22f3000954",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/6bbea6/{size}.png",
+        "created_at": "2024-12-03T06:11:01.072Z",
+        "cooked": "<p>The options are not updated yet for Q 2 &amp; 3 in GA 6.</p>",
+        "post_number": 16,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-03T06:11:01.072Z",
+        "reply_count": 0,
+        "reply_to_post_number": 8,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 157,
+        "readers_count": 156,
+        "score": 36.4,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Payal Agrawal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 16094,
+          "username": "carlton",
+          "name": "Carlton D'Silva",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15777,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/16",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561710,
+        "name": "Aryan Deelip Desai",
+        "username": "24f1000237",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1000237/{size}/66875_2.png",
+        "created_at": "2024-12-03T10:46:42.800Z",
+        "cooked": "<p>Same issue. Options are exceeding total no of pairs.</p>",
+        "post_number": 17,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-03T10:46:42.800Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 160,
+        "readers_count": 159,
+        "score": 32.0,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Aryan Deelip Desai",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 25876,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/17",
+        "user_cakedate": "2024-01-29",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561823,
+        "name": "Sumedha Mishra",
+        "username": "22f3001377",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001377/{size}/66790_2.png",
+        "created_at": "2024-12-03T15:39:22.020Z",
+        "cooked": "<p>I had the same problem.</p>",
+        "post_number": 18,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-03T15:39:22.020Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 159,
+        "readers_count": 158,
+        "score": 31.8,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Sumedha Mishra",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17219,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/18",
+        "user_cakedate": "2023-06-02",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561828,
+        "name": "Harsh Shah",
+        "username": "23f2003845",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/6f9a4e/{size}.png",
+        "created_at": "2024-12-03T16:01:30.622Z",
+        "cooked": "<p>Are they updated yet?</p>",
+        "post_number": 19,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-03T16:01:30.622Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 160,
+        "readers_count": 159,
+        "score": 37.0,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Harsh Shah",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22479,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/19",
+        "user_cakedate": "2023-09-22",
+        "user_birthdate": "1904-02-21",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561842,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-12-03T16:33:15.160Z",
+        "cooked": "<p>We informed operations 7 days ago. And sent reminders, but its still pending. We are not sure what is the reason for the delay, but we have sent another reminder today and tomorrow i will talk directly to operations in our weekly catchup.</p>\n<p>The affected questions as far as we know are q2, q3 and q7.</p>",
+        "post_number": 20,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-03T16:33:15.160Z",
+        "reply_count": 5,
+        "reply_to_post_number": 19,
+        "quote_count": 0,
+        "incoming_link_count": 3,
+        "reads": 161,
+        "readers_count": 160,
+        "score": 162.2,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "reply_to_user": {
+          "id": 22479,
+          "username": "23f2003845",
+          "name": "Harsh Shah",
+          "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/6f9a4e/{size}.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 6,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/20",
+        "user_cakedate": "2023-01-25",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 6
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 6,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 561859,
+        "name": "Dilraj Singh",
+        "username": "23f2001475",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001475/{size}/66815_2.png",
+        "created_at": "2024-12-03T17:11:13.355Z",
+        "cooked": "<p>I am also having the same problem. Kindly note my email if needed (as everyone would have different dataset probably)</p>",
+        "post_number": 21,
+        "post_type": 1,
+        "posts_count": 47,
+        "updated_at": "2024-12-03T17:11:13.355Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 169,
+        "readers_count": 168,
+        "score": 33.8,
+        "yours": false,
+        "topic_id": 157319,
+        "topic_slug": "graded-assignment-6-q-2-and-3-clarification",
+        "display_username": "Dilraj Singh",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 18439,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/graded-assignment-6-q-2-and-3-clarification/157319/21",
+        "user_cakedate": "2023-06-05",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      559470,
+      559485,
+      559489,
+      559492,
+      559614,
+      560406,
+      560415,
+      560540,
+      560715,
+      561057,
+      561152,
+      561185,
+      561189,
+      561555,
+      561582,
+      561710,
+      561823,
+      561828,
+      561842,
+      561859,
+      561896,
+      561899,
+      561951,
+      562240,
+      562417,
+      562598,
+      562691,
+      562853,
+      562898,
+      562919,
+      563029,
+      563079,
+      563198,
+      563338,
+      563342,
+      563356,
+      563360,
+      563364,
+      563369,
+      563377,
+      563380,
+      563896,
+      564878,
+      565079,
+      572047,
+      572751,
+      572823
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      197
+    ],
+    [
+      6,
+      194
+    ],
+    [
+      9,
+      193
+    ],
+    [
+      10,
+      192
+    ],
+    [
+      13,
+      191
+    ],
+    [
+      14,
+      190
+    ],
+    [
+      22,
+      189
+    ],
+    [
+      25,
+      188
+    ],
+    [
+      28,
+      187
+    ],
+    [
+      36,
+      186
+    ],
+    [
+      43,
+      183
+    ],
+    [
+      44,
+      182
+    ],
+    [
+      45,
+      168
+    ],
+    [
+      46,
+      166
+    ]
+  ],
+  "tags": [
+    "clarification",
+    "tds",
+    "graded-assignment",
+    "week-6"
+  ],
+  "tags_descriptions": {},
+  "id": 157319,
+  "title": "Graded Assignment 6 - Q 2 and 3. clarification",
+  "fancy_title": "Graded Assignment 6 - Q 2 and 3. clarification",
+  "posts_count": 47,
+  "created_at": "2024-11-26T06:57:15.116Z",
+  "views": 795,
+  "reply_count": 34,
+  "like_count": 26,
+  "last_posted_at": "2024-12-27T02:25:11.548Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "graded-assignment-6-q-2-and-3-clarification",
+  "category_id": 34,
+  "word_count": 1775,
+  "deleted_at": null,
+  "user_id": 13608,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_157319",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 49,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 28,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": null,
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 5,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 40077,
+        "username": "24ds3000100",
+        "name": "Bahni Roy",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds3000100/{size}/113366_2.png",
+        "post_count": 5,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 23736,
+        "username": "ASR23",
+        "name": "Adith SR",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/asr23/{size}/80341_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 26413,
+        "username": "24ds1000042",
+        "name": "PREENA SALIM",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24ds1000042/{size}/67340_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 27245,
+        "username": "Saloni",
+        "name": "Saloni Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saloni/{size}/66907_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16542,
+        "username": "22f3001673",
+        "name": "Adnan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001673/{size}/121826_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 13608,
+        "username": "21f3001934",
+        "name": "Ramees",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001934/{size}/110353_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 21209,
+        "username": "adiths",
+        "name": "Adith Senthil",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/adiths/{size}/66730_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 22479,
+        "username": "23f2003845",
+        "name": "Harsh Shah",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/6f9a4e/{size}.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16762,
+        "username": "22f3003031",
+        "name": "Sid",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15556,
+        "username": "kumarpa",
+        "name": "Pradeep Kumar P",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/kumarpa/{size}/68254_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14627,
+        "username": "22f3000182",
+        "name": "Jyoti Singh ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3000182/{size}/18877_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 25876,
+        "username": "24f1000237",
+        "name": "Aryan Deelip Desai",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1000237/{size}/66875_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15889,
+        "username": "vikram_negi",
+        "name": "Vikram Singh Negi",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/vikram_negi/{size}/98544_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 8226,
+        "username": "22ds1000131",
+        "name": "Anand K",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22ds1000131/{size}/14474_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 16893,
+        "username": "22f3001493",
+        "name": "DataScience",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001493/{size}/67299_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15309,
+        "username": "22f2001255",
+        "name": "Hitesh Binjrawat",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2001255/{size}/121479_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15651,
+        "username": "Jivraj",
+        "name": "Jivraj Singh Shekhawat",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 19342,
+        "username": "23ds2000091",
+        "name": "S Rajakumari",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23ds2000091/{size}/66833_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 14358,
+        "username": "22f2000816",
+        "name": "Bijoy Biju Varghese",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000816/{size}/13960_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 21900,
+        "username": "22f3001475",
+        "name": "Neil Ghevade ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3001475/{size}/67967_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 18439,
+        "username": "23f2001475",
+        "name": "Dilraj Singh",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001475/{size}/66815_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 8495,
+        "username": "Shubham_Shah",
+        "name": "Shubham Shah",
+        "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/db5fbb/{size}.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 23358,
+        "username": "23f3001129",
+        "name": "Aliza Shaikh ",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3001129/{size}/66875_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 13608,
+      "username": "21f3001934",
+      "name": "Ramees",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/21f3001934/{size}/110353_2.png"
+    },
+    "last_poster": {
+      "id": 16762,
+      "username": "22f3003031",
+      "name": "Sid",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3003031/{size}/94910_2.png"
+    },
+    "links": [
+      {
+        "url": "https://drive.google.com/file/d/1Ki3Gi1Byx4tC7Rzfo9mta0E1fXAED-rq/view",
+        "title": "discourse-topics.zip - Google Drive",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 5,
+        "user_id": 23358,
+        "domain": "drive.google.com",
+        "root_domain": "google.com"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1kMyiG3bw-TunyfdeukYY64rImKz0FyQ0/view",
+        "title": "eateries.csv - Google Drive",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 13608,
+        "domain": "drive.google.com",
+        "root_domain": "google.com"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

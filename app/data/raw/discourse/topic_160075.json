@@ -1,0 +1,904 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 570679,
+        "name": "Rishabh Barthwal",
+        "username": "23f2004112",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004112/{size}/68114_2.png",
+        "created_at": "2024-12-23T08:16:22.838Z",
+        "cooked": "<p>I raised my concern a few days ago regarding the discrepancy in my ROE score (showing 50 but scored 7/10) but haven’t received any updates yet. Since the final scores will be released soon, I request you to resolve this matter as soon as possible.<br>\n<a class=\"mention\" href=\"/u/carlton\">@carlton</a> <a class=\"mention\" href=\"/u/jivraj\">@Jivraj</a></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 2,
+        "updated_at": "2024-12-23T08:18:50.846Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 62,
+        "readers_count": 61,
+        "score": 27.4,
+        "yours": false,
+        "topic_id": 160075,
+        "topic_slug": "no-updates-regarding-the-roe-score",
+        "display_username": "Rishabh Barthwal",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 24501,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/no-updates-regarding-the-roe-score/160075/1",
+        "user_cakedate": "2023-11-27",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 1,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": true,
+        "can_vote": false
+      },
+      {
+        "id": 570692,
+        "name": "Carlton D'Silva",
+        "username": "carlton",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "created_at": "2024-12-23T08:31:28.545Z",
+        "cooked": "<p>Hi Rishabh,</p>\n<p>A formal discrepancy form will be released today.</p>\n<p>You can fill all the details in there.</p>\n<p>Kind regards</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 2,
+        "updated_at": "2024-12-23T08:31:28.545Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 61,
+        "readers_count": 60,
+        "score": 12.2,
+        "yours": false,
+        "topic_id": 160075,
+        "topic_slug": "no-updates-regarding-the-roe-score",
+        "display_username": "Carlton D'Silva",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "Regular",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "group_moderator": true,
+        "user_id": 16094,
+        "hidden": false,
+        "trust_level": 3,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/no-updates-regarding-the-roe-score/160075/2",
+        "user_cakedate": "2023-01-25",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": true,
+        "topic_accepted_answer": true
+      }
+    ],
+    "stream": [
+      570679,
+      570692
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      170
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 169029,
+      "title": "Project 2 - TDS Solver - Discussion Thread",
+      "fancy_title": "Project 2 - TDS Solver - Discussion Thread",
+      "slug": "project-2-tds-solver-discussion-thread",
+      "posts_count": 690,
+      "reply_count": 415,
+      "highest_post_number": 715,
+      "image_url": null,
+      "created_at": "2025-03-03T03:42:18.928Z",
+      "last_posted_at": "2025-04-25T17:08:56.564Z",
+      "bumped": true,
+      "bumped_at": "2025-04-25T17:08:56.564Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 478,
+      "unread": 0,
+      "new_posts": 237,
+      "unread_posts": 237,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "announcement",
+        "term1-2025",
+        "tds-project-2"
+      ],
+      "tags_descriptions": {},
+      "like_count": 478,
+      "views": 4477,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 18297,
+            "username": "23f1002382",
+            "name": "Andrew David",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002382/{size}/68945_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 13078,
+            "username": "Saransh_Saini",
+            "name": "Saransh Saini",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 35950,
+            "username": "Algsoch",
+            "name": "Vicky Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/algsoch/{size}/111675_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178649,
+      "title": "Guide for tds project 1",
+      "fancy_title": "Guide for tds project 1",
+      "slug": "guide-for-tds-project-1",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-10T09:01:10.396Z",
+      "last_posted_at": "2025-06-10T12:16:18.088Z",
+      "bumped": true,
+      "bumped_at": "2025-06-10T12:16:18.088Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term1-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 56,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 16079,
+            "username": "22f3000658",
+            "name": "Hardik Mehta ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/fbc32d/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 24803,
+            "username": "23f2003651",
+            "name": "Akshobh Verma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003651/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178618,
+      "title": "Submissions of Weekly Graded Assignment of TDS",
+      "fancy_title": "Submissions of Weekly Graded Assignment of TDS",
+      "slug": "submissions-of-weekly-graded-assignment-of-tds",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/b/ebebd516796a3f6ff08278e4eb8ee662f7b7158e.jpeg",
+      "created_at": "2025-06-10T06:34:51.065Z",
+      "last_posted_at": "2025-06-10T06:34:51.383Z",
+      "bumped": true,
+      "bumped_at": "2025-06-10T06:34:51.383Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "course-portal",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 22,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 45768,
+            "username": "24f1002463",
+            "name": "Mythili",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1002463/{size}/119814_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification",
+    "diploma-level"
+  ],
+  "tags_descriptions": {},
+  "id": 160075,
+  "title": "No updates regarding the ROE score",
+  "fancy_title": "No updates regarding the ROE score",
+  "posts_count": 2,
+  "created_at": "2024-12-23T08:16:22.673Z",
+  "views": 66,
+  "reply_count": 0,
+  "like_count": 1,
+  "last_posted_at": "2024-12-23T08:31:28.545Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "no-updates-regarding-the-roe-score",
+  "category_id": 34,
+  "word_count": 69,
+  "deleted_at": null,
+  "user_id": 24501,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_160075",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 2,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 2,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 159197,
+      "title": "Clarification regarding ROE result",
+      "fancy_title": "Clarification regarding ROE result",
+      "slug": "clarification-regarding-roe-result",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/c/0/c0379a390e1a72dc4939a8f772b8a6060b29ec0e_2_1024x488.png",
+      "created_at": "2024-12-16T04:12:35.521Z",
+      "last_posted_at": "2024-12-16T04:12:35.760Z",
+      "bumped": true,
+      "bumped_at": "2024-12-16T04:12:35.760Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "diploma-level"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 90,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 24501,
+            "username": "23f2004112",
+            "name": "Rishabh Barthwal",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004112/{size}/68114_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 141800,
+      "title": "ROE Scores",
+      "fancy_title": "ROE Scores",
+      "slug": "roe-scores",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": null,
+      "created_at": "2024-08-01T12:04:02.163Z",
+      "last_posted_at": "2024-08-01T12:04:02.375Z",
+      "bumped": true,
+      "bumped_at": "2024-08-01T12:04:02.375Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 77,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 13282,
+            "username": "22f1001809",
+            "name": "Nirmala ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f1001809/{size}/15091_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 144862,
+      "title": "Discrepancy in ROE score",
+      "fancy_title": "Discrepancy in ROE score",
+      "slug": "discrepancy-in-roe-score",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/4/445eda69620b097ce0be6945ef189cc3d6457543_2_460x1024.jpeg",
+      "created_at": "2024-09-03T16:40:28.264Z",
+      "last_posted_at": "2024-09-04T11:30:55.793Z",
+      "bumped": true,
+      "bumped_at": "2024-09-04T11:30:55.793Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "graded-assignment",
+        "tds-roe"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 72,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 2400,
+            "username": "harsh2479",
+            "name": "Harsha Nirmal",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/h/b5e925/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 82629,
+      "title": "Tds roe score",
+      "fancy_title": "Tds roe score",
+      "slug": "tds-roe-score",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2023-03-29T03:24:09.438Z",
+      "last_posted_at": "2023-03-29T06:45:59.095Z",
+      "bumped": true,
+      "bumped_at": "2023-03-29T06:45:59.095Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "quiz"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 92,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 13301,
+            "username": "gaurav5591",
+            "name": "GAURAV GARODIA",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/g/f07891/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 8056,
+            "username": "Puneet_21f3002005",
+            "name": "Puneet ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/puneet_21f3002005/{size}/46059_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 70232,
+      "title": "Tds roe",
+      "fancy_title": "Tds roe",
+      "slug": "tds-roe",
+      "posts_count": 14,
+      "reply_count": 14,
+      "highest_post_number": 20,
+      "image_url": null,
+      "created_at": "2022-11-09T06:28:19.581Z",
+      "last_posted_at": "2022-12-06T13:00:31.889Z",
+      "bumped": true,
+      "bumped_at": "2022-12-06T13:00:31.889Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "oppe"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 192,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": true,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster, Accepted Answer",
+          "user": {
+            "id": 5862,
+            "username": "BHUKYA_SAI_TEJA",
+            "name": "BHUKYA SAI TEJA",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/bhukya_sai_teja/{size}/891_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3024,
+            "username": "papadelta_5636",
+            "name": "Preetodeep Dev",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/dc4da7/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "Community-TA",
+            "flair_url": "handshake-angle",
+            "flair_bg_color": "717BF7",
+            "flair_color": "6BEE3D",
+            "flair_group_id": 89,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3230,
+            "username": "shriaviator",
+            "name": "Srinivas Chilukuri",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/59ef9b/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "Community-TA",
+            "flair_url": "handshake-angle",
+            "flair_bg_color": "717BF7",
+            "flair_color": "6BEE3D",
+            "flair_group_id": 89,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 6142,
+            "username": "Dixon",
+            "name": "Dixon",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/dixon/{size}/1027_2.png",
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 7905,
+            "username": "rohithsrinivaas",
+            "name": "Rohith Srinivaas M",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/rohithsrinivaas/{size}/13866_2.png",
+            "primary_group_name": "course_support",
+            "flair_name": "course_support",
+            "flair_url": "scale-balanced",
+            "flair_bg_color": "0040ff",
+            "flair_color": "1affc6",
+            "flair_group_id": 41,
+            "trust_level": 4
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "accepted_answer": {
+    "post_number": 2,
+    "username": "carlton",
+    "name": null,
+    "excerpt": "Hi Rishabh, \nA formal discrepancy form will be released today. \nYou can fill all the details in there. \nKind regards",
+    "accepter_name": null,
+    "accepter_username": "carlton"
+  },
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 16094,
+        "username": "carlton",
+        "name": "Carlton D'Silva",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 3
+      },
+      {
+        "id": 24501,
+        "username": "23f2004112",
+        "name": "Rishabh Barthwal",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004112/{size}/68114_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      }
+    ],
+    "created_by": {
+      "id": 24501,
+      "username": "23f2004112",
+      "name": "Rishabh Barthwal",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004112/{size}/68114_2.png"
+    },
+    "last_poster": {
+      "id": 16094,
+      "username": "carlton",
+      "name": "Carlton D'Silva",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png"
+    }
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}

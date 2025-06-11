@@ -1,0 +1,2464 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 572953,
+        "name": "Aditya Gupta",
+        "username": "22f3002811",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+        "created_at": "2024-12-27T08:01:12.050Z",
+        "cooked": "<p>Dear Tds team , <a class=\"mention\" href=\"/u/andrew\">@andrew</a>  <a class=\"mention\" href=\"/u/bharathi\">@Bharathi</a>  <a class=\"mention\" href=\"/u/milo\">@Milo</a> ,</p>\n<p>I am writing to express my concerns regarding the evaluation of Project 2 for the TDS course. Several aspects of the grading process have raised serious issues of fairness, transparency, and academic integrity, which are causing undue stress among students.</p>\n<p>Firstly, the evaluation matrices appear to be biased and disproportionately harsh. For instance, even scripts that scored as high as 89 in visible test cases were unable to solve the hidden cases, with no explanation provided for the failure. This lack of feedback makes it impossible for students to understand or address their mistakes, leading to significant frustration.</p>\n<p>Additionally, the overall scores do not seem to accurately reflect the quality or efficiency of the submitted scripts. Many students have put in substantial effort to write optimized and functional code, only to receive grades that undermine their hard work. The lack of transparency in how the final grades are determined further exacerbates this issue.</p>\n<p>This project’s grading has had an outsized impact on the overall course grade, jeopardizing the academic standing of many students. Such a disproportionate weight on one project, coupled with an unusually high level of complexity this term, has made it exceedingly difficult for students to achieve even a decent grade. This has resulted in feelings of humiliation and distress.</p>\n<p>I kindly request that the department reviews the evaluation process for Project 2, providing greater transparency in scoring, a more balanced weighting for grades, and constructive feedback on hidden test cases. This would ensure a fairer assessment of students’ efforts and capabilities.</p>\n<p>I hope you will consider the concerns raised here and take the necessary steps to rectify the situation. I, along with my peers, am willing to discuss this matter further if required.</p>\n<p>Thank you for your understanding.</p>\n<p>Sincerely,<br>\nAditya Gupta<br>\nTDS Course Participant</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T12:56:06.596Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 13,
+        "reads": 211,
+        "readers_count": 210,
+        "score": 427.2,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Aditya Gupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 21,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17202,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/1",
+        "user_cakedate": "2023-06-02",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 21
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 21,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null,
+        "can_vote": false
+      },
+      {
+        "id": 572962,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2024-12-27T08:38:08.149Z",
+        "cooked": "<p>If its unfair, its unfair for all right, so whats the point in bringing this up. You should tell if these practices have given unfair advantage to someone, then only it makes some sense.</p>\n<p>I agree that the grading of TDS was harsh, but then it is for everyone, you are not singled out right.</p>\n<p>Please correct me if i am wrong.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T08:38:08.149Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 176,
+        "readers_count": 175,
+        "score": 45.2,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/2",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 572965,
+        "name": "Hameed",
+        "username": "23f2005059",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png",
+        "created_at": "2024-12-27T08:43:29.612Z",
+        "cooked": "<p>Yes it is unfair for all people who took tds this term, all those who took before sep24 and after sep24 will have an unfair gpa advantage, whereas we are loosing 2 grade points very unfairly.</p>\n<p>As it should be said:<br>\nProj2 uses concepts which are not explicitly it’s prerequisites.<br>\nEven after following instructions properly and giving time, a good score is IMPOSSIBLE.<br>\nThe instructor himself can’t make a proj that can get a good score consistently after multiple runs</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T08:43:29.612Z",
+        "reply_count": 2,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 165,
+        "readers_count": 164,
+        "score": 103.0,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Hameed",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 15475,
+          "username": "22f3002293",
+          "name": "Rajat Goel",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22415,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/3",
+        "user_cakedate": "2023-09-21",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 572972,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2024-12-27T08:47:57.908Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"23f2005059\" data-post=\"3\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/48/115851_2.png\" class=\"avatar\"> 23f2005059:</div>\n<blockquote>\n<p>Yes it is unfair for all people who took tds this term</p>\n</blockquote>\n</aside>\n<p>So, people who took TDS in this term, including me, have to live with it, there is no other option.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T08:47:57.908Z",
+        "reply_count": 2,
+        "reply_to_post_number": 3,
+        "quote_count": 1,
+        "incoming_link_count": 0,
+        "reads": 152,
+        "readers_count": 151,
+        "score": 40.4,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/4",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 572992,
+        "name": "Hameed",
+        "username": "23f2005059",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png",
+        "created_at": "2024-12-27T09:16:53.622Z",
+        "cooked": "<p>Your reply aptly encapsulates the hopelessness the course team has bestowed upon us. Atleast now they should change the grading weightage or put relative grading</p>",
+        "post_number": 5,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T09:16:53.622Z",
+        "reply_count": 1,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 141,
+        "readers_count": 140,
+        "score": 108.2,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Hameed",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 15475,
+          "username": "22f3002293",
+          "name": "Rajat Goel",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 5,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 22415,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/5",
+        "user_cakedate": "2023-09-21",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 5
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 5,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 572994,
+        "name": "Rajat Goel",
+        "username": "22f3002293",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "created_at": "2024-12-27T09:18:04.660Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"23f2005059\" data-post=\"5\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/48/115851_2.png\" class=\"avatar\"> 23f2005059:</div>\n<blockquote>\n<p>Your reply aptly encapsulates the hopelessness the course team has bestowed upon us</p>\n</blockquote>\n</aside>\n<p>So true</p>\n<aside class=\"quote group-ds-students\" data-username=\"23f2005059\" data-post=\"5\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/48/115851_2.png\" class=\"avatar\"> 23f2005059:</div>\n<blockquote>\n<p>Atleast now they should change the grading weightage or put relative grading</p>\n</blockquote>\n</aside>\n<p>I hope they will change</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T09:18:04.660Z",
+        "reply_count": 0,
+        "reply_to_post_number": 5,
+        "quote_count": 1,
+        "incoming_link_count": 2,
+        "reads": 145,
+        "readers_count": 144,
+        "score": 39.0,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Rajat Goel",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 15475,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/6",
+        "user_cakedate": "2023-01-23",
+        "user_birthdate": "1904-05-17",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 573009,
+        "name": "Aishwarya Maan Srivastava",
+        "username": "Devanathan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/devanathan/{size}/109803_2.png",
+        "created_at": "2024-12-27T09:38:17.950Z",
+        "cooked": "<p>The grading is absolute so everyone is at loss, simple logic. If relative grading would have been there then there was no issue, as simple as that!</p>",
+        "post_number": 7,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T09:38:17.950Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 140,
+        "readers_count": 139,
+        "score": 28.0,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Aishwarya Maan Srivastava",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "reply_to_user": {
+          "id": 15475,
+          "username": "22f3002293",
+          "name": "Rajat Goel",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 34509,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/7",
+        "user_cakedate": "2024-06-23",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 573010,
+        "name": "Aishwarya Maan Srivastava",
+        "username": "Devanathan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/devanathan/{size}/109803_2.png",
+        "created_at": "2024-12-27T09:41:25.212Z",
+        "cooked": "<p>True, the project 2 scoring is too hazy, I got 14/14 in evaluation and 35 overall, so why was that evaluation script provided to us! Like the course is to teach hs, how do you expect us to know everything before hand, then why would anyone take this course! We should just go to youtube and watch the videos!!</p>",
+        "post_number": 8,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T09:41:25.212Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 160,
+        "readers_count": 159,
+        "score": 32.0,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Aishwarya Maan Srivastava",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": "",
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 34509,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/8",
+        "user_cakedate": "2024-06-23",
+        "reactions": [],
+        "current_user_reaction": null,
+        "reaction_users_count": 0,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 573014,
+        "name": "Jayakrishnan",
+        "username": "jkmadathil",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png",
+        "created_at": "2024-12-27T09:51:35.562Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"1\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>Several aspects of the grading process have raised serious issues of fairness, transparency, and academic integrity, which are causing undue stress among students.</p>\n</blockquote>\n</aside>\n<p>It would be good to know what part of evaluation was not transparent. From what I have seen of the project, the problem statement, evaluation criteria and best practices were explained very clearly right from the start. Please check the <a href=\"https://github.com/sanand0/tools-in-data-science-public/blob/tds-2024-t3/project-2-automated-analysis.md\">github page</a> for the evaluation criteria.</p>\n<p>Now specifically if I take your submission and check for what went wrong (use <a href=\"https://sanand0.github.io/tds-2024-sep-project-2-results/#?sort=id&amp;id=22f3002811&amp;tab=detail\">this link</a> to see the detail) In fact I would say that the faculty has been more transparent in revealing results of each student with greater details.</p>\n<details>\n<summary>\nExplanation given by Carlton in another thread</summary>\n<p><strong>EDIT</strong>:<br>\nIf you want to see the alignment, please <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/5\">check the reply</a> that <a class=\"mention\" href=\"/u/carlton\">@carlton</a> gave in a separate thread.</p>\n</details>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"1\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>the evaluation matrices appear to be biased and disproportionately harsh.</p>\n</blockquote>\n</aside>\n<p>I do understand that the evaluating matrices are hard/tough, but if you actually look at the skill sets being assessed, we are looking at:</p>\n<ol>\n<li>Data Analysis skill sets</li>\n<li>Deployability skill sets</li>\n<li>Presentation skill sets</li>\n<li>Prompt Engineering skill sets</li>\n</ol>\n<p>I believe the materials that you have seen in the course in this term actually covers all these skill sets sufficiently to prepare you for the assessments. By any chance did you attend the <a href=\"https://youtu.be/ob_OO9chM-o?si=VflTOQmBXe8KJAR1\">TA session for Project 2</a>? There were a lot of helpful pointers that were discussed by <a class=\"mention\" href=\"/u/carlton\">@carlton</a> and <a class=\"mention\" href=\"/u/jivraj\">@Jivraj</a></p>\n<p>If I am not mistaken, there was also an extension to the due date so that it gives learners sufficient time to try out various solution approaches.</p>\n<p>Again, in terms of support both the faculty and TAs were consistently responding to major queries in the forum and were also updating the FAQs when they encounter same type of query.</p>\n<aside class=\"quote group-ds-students\" data-username=\"23f2005059\" data-post=\"3\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/48/115851_2.png\" class=\"avatar\"> 23f2005059:</div>\n<blockquote>\n<p>Proj2 uses concepts which are not explicitly it’s prerequisites.</p>\n</blockquote>\n</aside>\n<p>I believe the Project primarily needs the following skill sets:</p>\n<ol>\n<li>Python</li>\n<li>Git</li>\n<li>LLMs - Specifically the function calls and chat completions, both of which were detailed in the module</li>\n</ol>\n<p>The only new knowledge that you need were on UV, for which the videos were provided along with the Project 2 statement. But even here there were sufficient support through the TA session and responses to the queries.</p>\n<p>From an administrative point of view, this project actually introduces you to the kind of problems that you might face when you are in a Data Science firm or when you are doing a real-life Data Science problem. And these are the skill sets that will help you to prove your credentials.</p>\n<p>Even if you look at the scores obtained by your peers, you can see that there are students who have done well in the project. Below is the distribution of scores:</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/4/6411c421f7f165862eba27d910d7d62456abb73d.png\" data-download-href=\"/uploads/short-url/ehfOgPPsol1Lx5ObgZbSkxzvlbD.png?dl=1\" title=\"Histogram of P2 Score frequncies\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/4/6411c421f7f165862eba27d910d7d62456abb73d.png\" alt=\"Histogram of P2 Score frequncies\" data-base62-sha1=\"ehfOgPPsol1Lx5ObgZbSkxzvlbD\" width=\"300\" height=\"185\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Histogram of P2 Score frequncies</span><span class=\"informations\">600×371 10.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>[This is very much in line with the typical curves that we get for Maths2 or Stats2 exams]</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002293\" data-post=\"4\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/48/92210_2.png\" class=\"avatar\"> 22f3002293:</div>\n<blockquote>\n<p>So, people who took TDS in this term, including me, have to live with it,</p>\n</blockquote>\n</aside>\n<p>I believe every course is in its constant mode of improvement, and this is done so that the outcome aligns well with the learning goals set up for the course. Tools in Data Science is no exception, in fact this course that has to keep up with the changing landscape of tool usage and practices in the Industry, especially now that we see a greater focus among companies to hire students with skill sets that are tested in this project.</p>\n<p>However, if you are still doubtful of transparency part of the project, please do comment. In fact we could even open up a meet to listen to your concerns and see if we are able to address them.</p>",
+        "post_number": 9,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T11:08:46.089Z",
+        "reply_count": 2,
+        "reply_to_post_number": null,
+        "quote_count": 3,
+        "incoming_link_count": 2,
+        "reads": 194,
+        "readers_count": 193,
+        "score": 103.8,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Jayakrishnan",
+        "primary_group_name": "ds-students",
+        "flair_name": "course_support",
+        "flair_url": "scale-balanced",
+        "flair_bg_color": "0040ff",
+        "flair_color": "1affc6",
+        "flair_group_id": 41,
+        "badges_granted": [],
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://sanand0.github.io/tds-2024-sep-project-2-results/#?sort=id&id=22f3002811&tab=detail",
+            "internal": false,
+            "reflection": false,
+            "title": "TDS 2024 Sep Project 2 Results",
+            "clicks": 4
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/5",
+            "internal": true,
+            "reflection": false,
+            "title": "Wrong marks in Project 2",
+            "clicks": 2
+          },
+          {
+            "url": "https://youtu.be/ob_OO9chM-o?si=VflTOQmBXe8KJAR1",
+            "internal": false,
+            "reflection": false,
+            "clicks": 1
+          },
+          {
+            "url": "https://github.com/sanand0/tools-in-data-science-public/blob/tds-2024-t3/project-2-automated-analysis.md",
+            "internal": false,
+            "reflection": false,
+            "title": "tools-in-data-science-public/project-2-automated-analysis.md at tds-2024-t3 · sanand0/tools-in-data-science-public · GitHub",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Leader",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": true,
+        "staff": true,
+        "group_moderator": true,
+        "user_id": 1,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/9",
+        "user_cakedate": "2021-03-19",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 2
+          },
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 573103,
+        "name": "Aditya Gupta",
+        "username": "22f3002811",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+        "created_at": "2024-12-27T12:05:56.921Z",
+        "cooked": "<p>Thank you for your response to my earlier concerns. However, there are several points that remain unresolved, and I would appreciate further clarification and transparency on the following:</p>\n<ol>\n<li><strong>Use of AI for Grading:</strong><br>\nRelying on AI for grading is inherently unfair, as manual evaluation and AI evaluation can produce significantly different results. Without a clear explanation of the AI’s decision-making process, it is impossible to trust the fairness of the scores.</li>\n<li><strong>Evaluation Script Issues:</strong><br>\nThe evaluation script seems to be flawed. For instance, even scripts scoring 14/14 in visible test cases end up receiving lower marks in the final evaluation. Additionally, the absence of any feedback mechanism renders the evaluation script practically useless. This lack of feedback also negates the value of live sessions since we cannot test the methods taught or determine which method is best for solving the problem.</li>\n<li><strong>Confusing and Inconsistent Result Display:</strong><br>\nThe result page is confusing and inconsistent with the dashboard. The histogram graph appears unreliable, and the detailed results section is incomplete—my roll number, for example, is missing entirely from this section, making it impossible to validate claims about a “detailed result.” I request access to the code or methodology used for generating these results to understand the process better.</li>\n<li><strong>Deadline Management:</strong><br>\nWhile an extension of the due date was granted, it was irrelevant given the already overwhelming number of submissions due on December 15. Additionally, the delayed release of the project closer to the end-term added unnecessary pressure on students, which was unfair and could have been avoided with better planning.</li>\n</ol>\n<p>These issues raise serious questions about the fairness, transparency, and effectiveness of the evaluation process. I kindly request you address these concerns and provide a detailed explanation or take corrective measures to ensure a fair and transparent grading system.</p>\n<p><strong>The matter is not that we did not understand the grading system , the issue is that the entire grading system is unfair by it’s design as the results it produce is not consistent.</strong></p>\n<p>Thank you for your time and attention to this matter.</p>",
+        "post_number": 10,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T12:05:56.921Z",
+        "reply_count": 1,
+        "reply_to_post_number": 9,
+        "quote_count": 0,
+        "incoming_link_count": 49,
+        "reads": 184,
+        "readers_count": 183,
+        "score": 316.8,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Aditya Gupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216",
+            "internal": true,
+            "reflection": true,
+            "title": "TDS | References | Guidelines",
+            "clicks": 0
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/9",
+            "internal": true,
+            "reflection": true,
+            "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 1,
+          "username": "jkmadathil",
+          "name": "Jayakrishnan",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17202,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10",
+        "user_cakedate": "2023-06-02",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 2
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 573108,
+        "name": "Aditya Gupta",
+        "username": "22f3002811",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+        "created_at": "2024-12-27T12:14:12.442Z",
+        "cooked": "<aside class=\"quote group-ds-students\" data-username=\"jkmadathil\" data-post=\"9\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/48/100121_2.png\" class=\"avatar\"> jkmadathil:</div>\n<blockquote>\n<p>I believe the Project primarily needs the following skill sets:</p>\n<ol>\n<li>Python</li>\n<li>Git</li>\n<li>LLMs - Specifically the function calls and chat completions, both of which were detailed in the module</li>\n</ol>\n</blockquote>\n</aside>\n<p>While the skills you mentioned are indeed part of the project, the issue at hand is not about what this project tests but about what it represents.</p>\n<p>As you are likely aware, this course carries the weightage of 3 credits and is designed to provide students with a brief overview of the tools used in data science. Given this, there is no reason to overly complicate a project that accounts for only 20% of the total grade.</p>\n<p>The decision to make the final project unnecessarily complex—especially so close to the end-term submissions—is both bizarre and irresponsible. Students are already juggling multiple obligations, including OPPEs and vivas for other projects. This approach suggests a failure to consider the grading system’s purpose and value.</p>\n<p>A balanced evaluation should aim to assess students’ understanding of the concepts taught, not overwhelm them with disproportionately difficult requirements. I urge you to reflect on this and consider whether such complexity aligns with the goals of this course.</p>",
+        "post_number": 11,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T12:14:12.442Z",
+        "reply_count": 1,
+        "reply_to_post_number": 9,
+        "quote_count": 1,
+        "incoming_link_count": 19,
+        "reads": 205,
+        "readers_count": 204,
+        "score": 171.0,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Aditya Gupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-references-guidelines/67216",
+            "internal": true,
+            "reflection": true,
+            "title": "TDS | References | Guidelines",
+            "clicks": 0
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476/9",
+            "internal": true,
+            "reflection": true,
+            "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17202,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11",
+        "user_cakedate": "2023-06-02",
+        "reactions": [
+          {
+            "id": "+1",
+            "type": "emoji",
+            "count": 1
+          },
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 2,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 573158,
+        "name": "Jayakrishnan",
+        "username": "jkmadathil",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png",
+        "created_at": "2024-12-27T14:00:44.580Z",
+        "cooked": "<p>I am noting down my response to your concerns in the below post. <a class=\"mention\" href=\"/u/s.anand\">@s.anand</a> has publicly addressed some of these in <a href=\"https://www.s-anand.net/blog/hacking-llms-a-teachers-guide-to-evaluating-with-chatgpt/\">his blog post</a></p>\n<p>So you can read both our interpretations and take a call on whether you have received answers to all the concerns raised.</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"10\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p><strong>Use of AI for Grading:</strong><br>\nRelying on AI for grading is inherently unfair, as manual evaluation and AI evaluation can produce significantly different results. Without a clear explanation of the AI’s decision-making process, it is impossible to trust the fairness of the scores.</p>\n</blockquote>\n</aside>\n<p>While I agree that AI is unreliable, but I believe this was made explicit right from the release of the problem statement itself that the reviewer will be an LLM. So this should not have been the time to raise this concern.</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"10\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>For instance, even scripts scoring 14/14 in visible test cases end up receiving lower marks in the final evaluation.</p>\n</blockquote>\n</aside>\n<p>I think it was very well explained that the evaluation script just does a sanity check and is not the final word when it comes to final evaluation.</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"10\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>Additionally, the absence of any feedback mechanism renders the evaluation script practically useless. This lack of feedback also negates the value of live sessions since we cannot test the methods taught or determine which method is best for solving the problem</p>\n</blockquote>\n</aside>\n<p>While I agree to the feedback related portion, I have this basic question. The AI token were shared with you to test out the code. Wouldn’t you be able to get response from the LLM during the testing phase and get a response from it directly? I believe they didn’t change the model significantly during the evaluation period, so there should not be too many variations to the response.<br>\nAgain, I’m not sure how this affects the value of live session. The Live sessions are kept so that any type of question can get addressed and is independent of whether you attempted the assignment or not. And I believe the forum was open for anyone to use, if in doubt, as I see both <a class=\"mention\" href=\"/u/carlton\">@carlton</a> and <a class=\"mention\" href=\"/u/jivraj\">@Jivraj</a> answering most queries here. In fact Anand was also active in the P2 discussion thread clarifying the queries.</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"10\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>The result page is confusing and inconsistent with the dashboard.</p>\n</blockquote>\n</aside>\n<p>I am totally with you here. But it is not hard to figure out. Let me break it down for you taking your case as an example. I followed the same process to understand the scoring process.</p>\n<p><strong>Screen 1</strong>: Results student wise<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/3/a/3a0cbf5a7585792d50c4fd244db9e6c62185b782.png\" data-download-href=\"/uploads/short-url/8hx0hLQoy1Q7rlrlFphQcxuzOJI.png?dl=1\" title=\"Result student wise\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/a/3a0cbf5a7585792d50c4fd244db9e6c62185b782_2_345x192.png\" alt=\"Result student wise\" data-base62-sha1=\"8hx0hLQoy1Q7rlrlFphQcxuzOJI\" width=\"345\" height=\"192\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/a/3a0cbf5a7585792d50c4fd244db9e6c62185b782_2_345x192.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/a/3a0cbf5a7585792d50c4fd244db9e6c62185b782_2_517x288.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/3/a/3a0cbf5a7585792d50c4fd244db9e6c62185b782_2_690x384.png 2x\" data-dominant-color=\"F6F4F0\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Result student wise</span><span class=\"informations\">1499×837 61.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>The first thing to do is to search for your roll no (Simple Ctrl/Cmd+F) should suffice here.<br>\n<strong>Screen 2</strong>:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/4/a/4a56ae86b9abc2387d348d47f28579ffc0da1bcb.png\" data-download-href=\"/uploads/short-url/aBD2WWpPkRdGN7o8P3wmxBN9v7R.png?dl=1\" title=\"searching given rollno\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4a56ae86b9abc2387d348d47f28579ffc0da1bcb_2_345x247.png\" alt=\"searching given rollno\" data-base62-sha1=\"aBD2WWpPkRdGN7o8P3wmxBN9v7R\" width=\"345\" height=\"247\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4a56ae86b9abc2387d348d47f28579ffc0da1bcb_2_345x247.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4a56ae86b9abc2387d348d47f28579ffc0da1bcb_2_517x370.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/4/a/4a56ae86b9abc2387d348d47f28579ffc0da1bcb_2_690x494.png 2x\" data-dominant-color=\"F2EAD2\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">searching given rollno</span><span class=\"informations\">1043×748 60.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>And when you click on your roll no id, you can see two things:</p>\n<ol>\n<li>\n<p>Only your results are seen<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/1/d123e98758eeb8ff4d879ccc12333a409cd06aad.png\" data-download-href=\"/uploads/short-url/tQ8JrhqVIQAnGCBkBucTEXmnquV.png?dl=1\" title=\"individual student result\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/1/d123e98758eeb8ff4d879ccc12333a409cd06aad_2_690x153.png\" alt=\"individual student result\" data-base62-sha1=\"tQ8JrhqVIQAnGCBkBucTEXmnquV\" width=\"690\" height=\"153\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/d/1/d123e98758eeb8ff4d879ccc12333a409cd06aad_2_690x153.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/1/d123e98758eeb8ff4d879ccc12333a409cd06aad.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/d/1/d123e98758eeb8ff4d879ccc12333a409cd06aad.png 2x\" data-dominant-color=\"F1EFE4\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">individual student result</span><span class=\"informations\">931×207 10.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nThe way I interpreted it was: You have scored 8.88 marks out of a total 28 marks that is possible, and the marks are based on 34 correct tests out of a possible 89.<br>\nPersonal observations: The bar was deceiving (need to check what the div element was) and presence of legends would have made interpretation easier.</p>\n</li>\n<li>\n<p>The URL changes for the selection<br>\n<img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/2/c/2ce70b4665afa087333474657c18c30fcbbe4073.png\" alt=\"URL change\" data-base62-sha1=\"6pe18gldvJetq7D0e5WXsM6AQRd\" width=\"278\" height=\"26\"><br>\ni.e. for any student to directly check their results they can use <code>https://sanand0.github.io/tds-2024-sep-project-2-results/#?id=&lt;RollNo&gt;</code></p>\n</li>\n</ol>\n<p>This direct URL would have made life a lot easier for all students. Definitely a feedback that I will be giving Anand.</p>\n<p>Screen 3: To check if my interpretation is correct, I clicked on the test tab now.<br>\nAnd lo and behold I see detailed evaluation of 89 test cases (<a href=\"https://sanand0.github.io/tds-2024-sep-project-2-results/#?id=22f3002811&amp;tab=test\">direct url</a> in case you want to check).<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/e/5e885ce41a0ee32eeeb9714b421ad38f6412a5cc.png\" data-download-href=\"/uploads/short-url/duh2ncfLgJUDkgA0Xzy4nWMl93m.png?dl=1\" title=\"Tests tab\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/e/5e885ce41a0ee32eeeb9714b421ad38f6412a5cc_2_517x371.png\" alt=\"Tests tab\" data-base62-sha1=\"duh2ncfLgJUDkgA0Xzy4nWMl93m\" width=\"517\" height=\"371\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/e/5e885ce41a0ee32eeeb9714b421ad38f6412a5cc_2_517x371.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/e/5e885ce41a0ee32eeeb9714b421ad38f6412a5cc_2_775x556.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/e/5e885ce41a0ee32eeeb9714b421ad38f6412a5cc_2_1034x742.png 2x\" data-dominant-color=\"F2F1ED\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Tests tab</span><span class=\"informations\">1188×853 63.8 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Screen 4: Now that I have seen the test results, the next question was will the student know why their code failed in the test cases?? And to answer this click on the details tab and there you have details of each and every test along with the feedback.<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/5/75566dd771dd6f88834377592295d074dc4ec6c8.png\" data-download-href=\"/uploads/short-url/gK12k1IePZb6QXRAoZ8jQrybASY.png?dl=1\" title=\"Details of test results\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/5/75566dd771dd6f88834377592295d074dc4ec6c8_2_517x252.png\" alt=\"Details of test results\" data-base62-sha1=\"gK12k1IePZb6QXRAoZ8jQrybASY\" width=\"517\" height=\"252\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/5/75566dd771dd6f88834377592295d074dc4ec6c8_2_517x252.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/5/75566dd771dd6f88834377592295d074dc4ec6c8_2_775x378.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/5/75566dd771dd6f88834377592295d074dc4ec6c8_2_1034x504.png 2x\" data-dominant-color=\"E0DED0\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">Details of test results</span><span class=\"informations\">1657×808 116 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Hopefully, by now you would have figured out the direct URL for this.</p>\n<p>As a complete outsider to the Project 2 implementation, it took me 5 minutes to figure this out, but the results.csv that <a href=\"https://discourse.onlinedegree.iitm.ac.in/t/project-2-discussion-thread-sep-2024-term/157843/411\">Anand had shared in P2 thread</a> helped a lot in interpretation and consolidation. But again, this was available along with result declaration.</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"10\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>I request access to the code or methodology used for generating these results to understand the process better.</p>\n</blockquote>\n</aside>\n<p>If I am not mistaken, the <a href=\"https://github.com/sanand0/tools-in-data-science-public/blob/tds-2024-t3/project2/evaluate.py\">evaluation script</a> is already shared with all of you much well in advance (even before due date). This is the same that you used in your local evaluation. The only difference, if I understood the process correctly, is that it now run on a different server for the actual evaluation.</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"10\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>it was irrelevant given the already overwhelming number of submissions due on December 15. Additionally, the delayed release of the project closer to the end-term added unnecessary pressure on students, which was unfair and could have been avoided with better planning.</p>\n</blockquote>\n</aside>\n<p>As an administrator, I will concur with one part of your grievance that the project release could have been planned a little better so that it did not end a week before the End terms. But having said that, I guess the team would have intimated you about the new dates well in advance during the term itself.</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"11\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>As you are likely aware, this course carries the weightage of 3 credits and is designed to provide students with a brief overview of the tools used in data science. Given this, there is no reason to overly complicate a project that accounts for only 20% of the total grade.</p>\n</blockquote>\n</aside>\n<p>I am not sure where you obtained the goal from. But as stated in the <a href=\"https://study.iitm.ac.in/ds/course_pages/BSSE2002.html\">course webpage</a></p>\n<blockquote>\n<p>This practical course will teach students to use popular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production. Pre-requisites: Python, HTML, JavaScript, Excel, data science basics</p>\n</blockquote>\n<p>So I believe the Project is aligned with the course goals.</p>\n<aside class=\"quote group-ds-students\" data-username=\"22f3002811\" data-post=\"11\" data-topic=\"160611\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://dub1.discourse-cdn.com/flex013/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/48/66736_2.png\" class=\"avatar\"> 22f3002811:</div>\n<blockquote>\n<p>A balanced evaluation should aim to assess students’ understanding of the concepts taught, not overwhelm them with disproportionately difficult requirements.</p>\n</blockquote>\n</aside>\n<p>Since I am neither a student nor a faculty/instructor/TA, I clearly see two parts to this argument:</p>\n<p>From a teacher’s point of view the student should be provided with meaningful challenges so that learning is both sustainable and transferable. And this means that there are inherent hardships involved in the process. They will aim for the balance by ensuring there are enough opportunities for students to learn in the course. Especially in a course like TDS, this means lot more of hands on activities and assessments as there is very little to teach as concept here.<br>\nHere is Anand’s <a href=\"https://www.s-anand.net/blog/should-courses-be-hard-or-easy/\">version of this</a></p>\n<p>From a students point of view, there should be something tangible that they can learn which can be used for their career (doesn’t matter what path is chosen) and also optimizes their time and effort .<br>\n<em>Note</em>: I think this is a fair expectation from the student and am not dismissing it entirely.<br>\nSo when it comes to course like TDS, you will be looking at a fairly doable set of assignments and activities that do not eat into your other courses or activities.</p>\n<p>So the point becomes, how do you define balanced? Here are some pointers from my side (While these are put in a question format, both instructors and students can adapt these questions in their own context and try to see if these are answered to the best of their abilities)</p>\n<ol>\n<li>Are the assessments assessing the intended skills?</li>\n<li>Is there clarity on the way the assessment is going to be implemented/administered?</li>\n<li>Is there a/multiple mechanisms for student to seek support and clarification both before and during the assessment?</li>\n<li>Are the students being nudged to plan and do the assessments?</li>\n</ol>\n<p>I hope you can use this as self-check for yourselves to see if these are getting answered satisfactorily.</p>\n<p>Now, if you still feel that grading system is not fair, happy to get on a call and discuss this.</p>",
+        "post_number": 12,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T14:00:44.580Z",
+        "reply_count": 1,
+        "reply_to_post_number": 10,
+        "quote_count": 2,
+        "incoming_link_count": 18,
+        "reads": 186,
+        "readers_count": 185,
+        "score": 177.2,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Jayakrishnan",
+        "primary_group_name": "ds-students",
+        "flair_name": "course_support",
+        "flair_url": "scale-balanced",
+        "flair_bg_color": "0040ff",
+        "flair_color": "1affc6",
+        "flair_group_id": 41,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://www.s-anand.net/blog/should-courses-be-hard-or-easy/",
+            "internal": false,
+            "reflection": false,
+            "title": "Should courses be hard or easy? - S Anand",
+            "clicks": 4
+          },
+          {
+            "url": "https://www.s-anand.net/blog/hacking-llms-a-teachers-guide-to-evaluating-with-chatgpt/",
+            "internal": false,
+            "reflection": false,
+            "title": "Hacking LLMs: A Teacher's Guide to Evaluating with ChatGPT - S Anand",
+            "clicks": 4
+          },
+          {
+            "url": "https://github.com/sanand0/tools-in-data-science-public/blob/tds-2024-t3/project2/evaluate.py",
+            "internal": false,
+            "reflection": false,
+            "title": "tools-in-data-science-public/project2/evaluate.py at tds-2024-t3 · sanand0/tools-in-data-science-public · GitHub",
+            "clicks": 2
+          },
+          {
+            "url": "https://sanand0.github.io/tds-2024-sep-project-2-results/#?id=22f3002811&tab=test",
+            "internal": false,
+            "reflection": false,
+            "title": "TDS 2024 Sep Project 2 Results",
+            "clicks": 2
+          },
+          {
+            "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-discussion-thread-sep-2024-term/157843/411",
+            "internal": true,
+            "reflection": false,
+            "title": "Project 2 Discussion Thread [Sep 2024 Term]",
+            "clicks": 0
+          },
+          {
+            "url": "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": false,
+        "user_title": "Leader",
+        "title_is_group": false,
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 3,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": true,
+        "staff": true,
+        "group_moderator": true,
+        "user_id": 1,
+        "hidden": false,
+        "trust_level": 4,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/12",
+        "user_cakedate": "2021-03-19",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 3
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 3,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 573214,
+        "name": "Aditya Gupta",
+        "username": "22f3002811",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+        "created_at": "2024-12-27T15:29:01.110Z",
+        "cooked": "<p>look man I don’t want to argue but let me make it very simple for you , I don’t have any problem with discussion , clarity or goal of the project , as a matter of fact I like challenges , I enjoyed this course more that any other course in this diploma but there is time for fun and there is a time for Marks .</p>\n<p>Now comes the only part where the main issue lies …<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/5/0/50c795ee60fc63613ebf769b6ebc972f6fef0431.png\" data-download-href=\"/uploads/short-url/bwBO5Nd9xBSbbNmSBpTfUgXbVa9.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/0/50c795ee60fc63613ebf769b6ebc972f6fef0431_2_690x360.png\" alt=\"image\" data-base62-sha1=\"bwBO5Nd9xBSbbNmSBpTfUgXbVa9\" width=\"690\" height=\"360\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/0/50c795ee60fc63613ebf769b6ebc972f6fef0431_2_690x360.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/0/50c795ee60fc63613ebf769b6ebc972f6fef0431_2_1035x540.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/0/50c795ee60fc63613ebf769b6ebc972f6fef0431_2_1380x720.png 2x\" data-dominant-color=\"E5EAF2\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1889×986 101 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div><br>\nthis is a screen shot of the final result of the final evaluation script ,</p>\n<p>Now take a close look at the fields these were the exact evaluation fields which were hidden for final evaluation which determined (ruined) my final score .<br>\nNow just tell me <strong>how did the LLM evaluated my readme file such that it could not determine what headings my readme contained</strong></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/4/74f62a120ade3b0427387ab24e6dc3d04e93d24f.png\" data-download-href=\"/uploads/short-url/gGGN3v5GtwbrDSoqmlf0XWp5KI7.png?dl=1\" title=\"image\" rel=\"noopener nofollow ugc\"><img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/4/74f62a120ade3b0427387ab24e6dc3d04e93d24f_2_665x499.png\" alt=\"image\" data-base62-sha1=\"gGGN3v5GtwbrDSoqmlf0XWp5KI7\" width=\"665\" height=\"499\" srcset=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/4/74f62a120ade3b0427387ab24e6dc3d04e93d24f_2_665x499.png, https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/7/4/74f62a120ade3b0427387ab24e6dc3d04e93d24f_2_997x748.png 1.5x, https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/7/4/74f62a120ade3b0427387ab24e6dc3d04e93d24f.png 2x\" data-dominant-color=\"BE9A9C\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">image</span><span class=\"informations\">1116×838 77.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Or how did it figured out that the charts I used are not relevant<br>\n,you can see my full response in <a href=\"https://github.com/AdityaGuptaVarshney/tds-project2/tree/main/goodreads\" class=\"inline-onebox\" rel=\"noopener nofollow ugc\">tds-project2/goodreads at main · AdityaGuptaVarshney/tds-project2 · GitHub</a></p>\n<p><strong>Now To explore alternative evaluation methods</strong><br>\nif peer review had been used, I believe it is reasonable to estimate that my final score would have ranged between 80-90%. This aligns with the initial evaluation script, which scored my submission at 89% (14/14).</p>\n<p>(Even you basic evaluation script which by the way used llm to give a final grade evaluated my script 89 percent ) ,<br>\n<img src=\"https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/6/e/6ef9168dd3bd821d1aa97610ae4ade27f724b9cf.png\" alt=\"image\" data-base62-sha1=\"fPIbOspn0WB5Oe5O6cuf17QO8xx\" width=\"690\" height=\"33\" data-dominant-color=\"EEE2C1\"><br>\n(14/14 to be exact)  because of which most of the students including me were confused and thought that they have cracked the project and would get a decent grade … <em>this was the transparency error</em></p>\n<p><strong>Now finally tell me how can you justify it</strong></p>\n<ol>\n<li>\n<p>How can you justify the transformation of 89 % (basic but still relevant) score to a mere (41%) after the final evaluation (which is not working as intended hence the consistency and integrity error)</p>\n</li>\n<li>\n<p>How can you justify 41 % when with peer review i could have got 90 % easily</p>\n</li>\n<li>\n<p>How can you justify the degradation of our final grade point from (B to C ) .</p>\n</li>\n</ol>\n<p><strong>Proposed Solutions:</strong></p>\n<ol>\n<li>Reevaluate all submissions using a new and fair evaluation script (though I understand this might not be feasible at this stage).</li>\n<li>Implement a peer review system to provide more accurate and balanced grading.</li>\n<li>Accept the initial test results (14/14 scores) as the final results. While this may be a basic measure, it is at least consistent and reflective of the criteria we optimized our scripts for.</li>\n</ol>\n<p>What cannot be done, however, is ignoring the evident flaws in the evaluation system. Students invested weeks optimizing their scripts (from scores like 4/14 to 14/14) based on the visible tests, only to be blindsided by a system that ultimately did not function as intended.</p>\n<p>While I am not opposed to new evaluation systems or changes, it is essential that such systems work transparently and consistently to ensure fairness for all students.</p>\n<p>Thank you for your time and consideration. I look forward to your response.</p>\n<p>Sincerely,<br>\nAditya Gupta</p>",
+        "post_number": 13,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T15:29:01.110Z",
+        "reply_count": 1,
+        "reply_to_post_number": 12,
+        "quote_count": 0,
+        "incoming_link_count": 1,
+        "reads": 147,
+        "readers_count": 146,
+        "score": 159.4,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Aditya Gupta",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://github.com/AdityaGuptaVarshney/tds-project2/tree/main/goodreads",
+            "internal": false,
+            "reflection": false,
+            "title": "tds-project2/goodreads at main · AdityaGuptaVarshney/tds-project2 · GitHub",
+            "clicks": 5
+          }
+        ],
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 1,
+          "username": "jkmadathil",
+          "name": "Jayakrishnan",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 8,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 17202,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/13",
+        "user_cakedate": "2023-06-02",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 8
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 8,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      },
+      {
+        "id": 573228,
+        "name": "Rudransh Srivastava",
+        "username": "23f2004790",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004790/{size}/67132_2.png",
+        "created_at": "2024-12-27T15:42:07.821Z",
+        "cooked": "<p>I agree with what he has mentioned and in addition I would like to propose a grant of atleast 5 bonus marks to the students who attempted both the projects. This will appreciate the efforts &amp; mental stress they went through to make these projects which ultimately ended up getting inappropriately evaluated by the TDS team.</p>",
+        "post_number": 14,
+        "post_type": 1,
+        "posts_count": 14,
+        "updated_at": "2024-12-27T15:42:07.821Z",
+        "reply_count": 0,
+        "reply_to_post_number": 13,
+        "quote_count": 0,
+        "incoming_link_count": 0,
+        "reads": 118,
+        "readers_count": 117,
+        "score": 83.6,
+        "yours": false,
+        "topic_id": 160611,
+        "topic_slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+        "display_username": "Rudransh Srivastava",
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_bg_color": "",
+        "flair_color": "",
+        "flair_group_id": 294,
+        "badges_granted": [],
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_see_hidden_post": false,
+        "can_wiki": false,
+        "read": false,
+        "user_title": null,
+        "reply_to_user": {
+          "id": 17202,
+          "username": "22f3002811",
+          "name": "Aditya Gupta",
+          "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png"
+        },
+        "bookmarked": false,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 4,
+            "can_act": true
+          },
+          {
+            "id": 6,
+            "can_act": true
+          },
+          {
+            "id": 3,
+            "can_act": true
+          },
+          {
+            "id": 4,
+            "can_act": true
+          },
+          {
+            "id": 8,
+            "can_act": true
+          },
+          {
+            "id": 10,
+            "can_act": true
+          },
+          {
+            "id": 7,
+            "can_act": true
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 23495,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "post_url": "/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/14",
+        "user_cakedate": "2023-10-04",
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 4
+          }
+        ],
+        "current_user_reaction": null,
+        "reaction_users_count": 4,
+        "current_user_used_main_reaction": false,
+        "can_accept_answer": false,
+        "can_unaccept_answer": false,
+        "accepted_answer": false,
+        "topic_accepted_answer": null
+      }
+    ],
+    "stream": [
+      572953,
+      572962,
+      572965,
+      572972,
+      572992,
+      572994,
+      573009,
+      573010,
+      573014,
+      573103,
+      573108,
+      573158,
+      573214,
+      573228
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      166
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 169029,
+      "title": "Project 2 - TDS Solver - Discussion Thread",
+      "fancy_title": "Project 2 - TDS Solver - Discussion Thread",
+      "slug": "project-2-tds-solver-discussion-thread",
+      "posts_count": 690,
+      "reply_count": 415,
+      "highest_post_number": 715,
+      "image_url": null,
+      "created_at": "2025-03-03T03:42:18.928Z",
+      "last_posted_at": "2025-04-25T17:08:56.564Z",
+      "bumped": true,
+      "bumped_at": "2025-04-25T17:08:56.564Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 478,
+      "unread": 0,
+      "new_posts": 237,
+      "unread_posts": 237,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 2,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "announcement",
+        "term1-2025",
+        "tds-project-2"
+      ],
+      "tags_descriptions": {},
+      "like_count": 478,
+      "views": 4477,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 9419,
+            "username": "s.anand",
+            "name": "Anand S",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
+            "primary_group_name": "faculty",
+            "flair_name": "faculty",
+            "flair_url": "chalkboard-user",
+            "flair_bg_color": "f2c26e",
+            "flair_color": "000",
+            "flair_group_id": 54,
+            "trust_level": 4
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 18297,
+            "username": "23f1002382",
+            "name": "Andrew David",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f1002382/{size}/68945_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 13078,
+            "username": "Saransh_Saini",
+            "name": "Saransh Saini",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/saransh_saini/{size}/123495_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 15651,
+            "username": "Jivraj",
+            "name": "Jivraj Singh Shekhawat",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/j/b9bd4f/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 35950,
+            "username": "Algsoch",
+            "name": "Vicky Kumar",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/algsoch/{size}/111675_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178649,
+      "title": "Guide for tds project 1",
+      "fancy_title": "Guide for tds project 1",
+      "slug": "guide-for-tds-project-1",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2025-06-10T09:01:10.396Z",
+      "last_posted_at": "2025-06-10T12:16:18.088Z",
+      "bumped": true,
+      "bumped_at": "2025-06-10T12:16:18.088Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "term1-2025",
+        "tds-project-1"
+      ],
+      "tags_descriptions": {},
+      "like_count": 2,
+      "views": 56,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 16079,
+            "username": "22f3000658",
+            "name": "Hardik Mehta ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/2/fbc32d/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 24803,
+            "username": "23f2003651",
+            "name": "Akshobh Verma",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2003651/{size}/67172_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 178618,
+      "title": "Submissions of Weekly Graded Assignment of TDS",
+      "fancy_title": "Submissions of Weekly Graded Assignment of TDS",
+      "slug": "submissions-of-weekly-graded-assignment-of-tds",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/b/ebebd516796a3f6ff08278e4eb8ee662f7b7158e.jpeg",
+      "created_at": "2025-06-10T06:34:51.065Z",
+      "last_posted_at": "2025-06-10T06:34:51.383Z",
+      "bumped": true,
+      "bumped_at": "2025-06-10T06:34:51.383Z",
+      "archetype": "regular",
+      "unseen": true,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "course-portal",
+        "term2-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 22,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 45768,
+            "username": "24f1002463",
+            "name": "Mythili",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1002463/{size}/119814_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 0
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "clarification",
+    "operational"
+  ],
+  "tags_descriptions": {},
+  "id": 160611,
+  "title": "Concerns Regarding Unfair Grading Practices for TDS Project 2",
+  "fancy_title": "Concerns Regarding Unfair Grading Practices for TDS Project 2",
+  "posts_count": 14,
+  "created_at": "2024-12-27T08:01:11.879Z",
+  "views": 412,
+  "reply_count": 10,
+  "like_count": 52,
+  "last_posted_at": "2024-12-27T15:42:07.821Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "concerns-regarding-unfair-grading-practices-for-tds-project-2",
+  "category_id": 34,
+  "word_count": 4026,
+  "deleted_at": null,
+  "user_id": 17202,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "image_url": null,
+  "slow_mode_seconds": 0,
+  "draft": null,
+  "draft_key": "topic_160611",
+  "draft_sequence": 0,
+  "unpinned": null,
+  "pinned": false,
+  "current_post_number": 1,
+  "highest_post_number": 14,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 10,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": true
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": false,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 6,
+  "show_read_indicator": false,
+  "thumbnails": null,
+  "slow_mode_enabled_until": null,
+  "tags_disable_ads": false,
+  "related_topics": [
+    {
+      "id": 160668,
+      "title": "Request for Re-evaluation of Project 2",
+      "fancy_title": "Request for Re-evaluation of Project 2",
+      "slug": "request-for-re-evaluation-of-project-2",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/5/d/5d85be98a8073892f983fd00af1e08f81067012e_2_1024x524.png",
+      "created_at": "2024-12-27T15:51:28.065Z",
+      "last_posted_at": "2024-12-27T15:51:28.297Z",
+      "bumped": true,
+      "bumped_at": "2024-12-27T15:51:28.297Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "clarification",
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 8,
+      "views": 136,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 17202,
+            "username": "22f3002811",
+            "name": "Aditya Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 168476,
+      "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+      "fancy_title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+      "slug": "concerns-regarding-tds-course-difficulty-and-grading-fairness",
+      "posts_count": 17,
+      "reply_count": 6,
+      "highest_post_number": 17,
+      "image_url": null,
+      "created_at": "2025-02-25T17:21:11.726Z",
+      "last_posted_at": "2025-02-28T13:48:45.642Z",
+      "bumped": true,
+      "bumped_at": "2025-02-28T13:48:45.642Z",
+      "archetype": "regular",
+      "unseen": false,
+      "last_read_post_number": 15,
+      "unread": 0,
+      "new_posts": 0,
+      "unread_posts": 0,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "notification_level": 1,
+      "bookmarked": false,
+      "liked": false,
+      "tags": [
+        "clarification",
+        "diploma-level",
+        "term1-2025"
+      ],
+      "tags_descriptions": {},
+      "like_count": 157,
+      "views": 546,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14374,
+            "username": "A_LAKSHMI",
+            "name": "A LAKSHMI",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/a_lakshmi/{size}/14204_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 17202,
+            "username": "22f3002811",
+            "name": "Aditya Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 19088,
+            "username": "23f2001286",
+            "name": "Ayush Kumar Shaw ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2001286/{size}/67594_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12334,
+            "username": "namanshyamsukha",
+            "name": "Naman S. ",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/namanshyamsukha/{size}/108303_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 16094,
+            "username": "carlton",
+            "name": "Carlton D'Silva",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 126961,
+      "title": "Project 1 Wrongly Evaluated",
+      "fancy_title": "Project 1 Wrongly Evaluated",
+      "slug": "project-1-wrongly-evaluated",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T13:41:52.866Z",
+      "last_posted_at": "2024-04-21T03:24:27.143Z",
+      "bumped": true,
+      "bumped_at": "2024-04-21T03:24:27.143Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "operational"
+      ],
+      "tags_descriptions": {},
+      "like_count": 0,
+      "views": 55,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 16809,
+            "username": "Parnikaa",
+            "name": "Parnikaa",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/parnikaa/{size}/92888_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 12082,
+            "username": "PremKumarGupta",
+            "name": "Prem Kumar Gupta ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/b5ac83/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 61041,
+      "title": "Project 1 and 2 Scores",
+      "fancy_title": "Project 1 and 2 Scores",
+      "slug": "project-1-and-2-scores",
+      "posts_count": 109,
+      "reply_count": 53,
+      "highest_post_number": 111,
+      "image_url": null,
+      "created_at": "2022-08-10T15:36:14.564Z",
+      "last_posted_at": "2022-11-20T13:17:21.399Z",
+      "bumped": true,
+      "bumped_at": "2022-11-20T13:17:21.399Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "operational",
+        "term2-2022",
+        "tds-project-1",
+        "tds-project-2"
+      ],
+      "tags_descriptions": {},
+      "like_count": 147,
+      "views": 1831,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 1762,
+            "username": "pphep",
+            "name": "Pooja Pareek",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/pphep/{size}/161_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 686,
+            "username": "nmaddala",
+            "name": "Narayana Maddala",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/nmaddala/{size}/67626_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 8336,
+            "username": "Thanisha",
+            "name": "Thanisha Valliyodan",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/thanisha/{size}/497_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 2847,
+            "username": "srikanth.bg",
+            "name": "Srikanth BG",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/srikanth.bg/{size}/179_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3024,
+            "username": "papadelta_5636",
+            "name": "Preetodeep Dev",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/dc4da7/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "Community-TA",
+            "flair_url": "handshake-angle",
+            "flair_bg_color": "717BF7",
+            "flair_color": "6BEE3D",
+            "flair_group_id": 89,
+            "trust_level": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 127253,
+      "title": "TDS Project 2 Evaluation issue",
+      "fancy_title": "TDS Project 2 Evaluation issue",
+      "slug": "tds-project-2-evaluation-issue",
+      "posts_count": 6,
+      "reply_count": 0,
+      "highest_post_number": 6,
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/optimized/3X/6/f/6fb9d2f6e07da14801e2f86c3ca08d62bc80c240_2_1024x235.jpeg",
+      "created_at": "2024-04-23T13:17:19.332Z",
+      "last_posted_at": "2024-05-01T05:26:45.025Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T05:26:45.025Z",
+      "archetype": "regular",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "tags": [
+        "operational",
+        "grading",
+        "graded-assignment",
+        "term1-2024"
+      ],
+      "tags_descriptions": {},
+      "like_count": 1,
+      "views": 101,
+      "category_id": 34,
+      "featured_link": null,
+      "has_accepted_answer": false,
+      "posters": [
+        {
+          "extras": null,
+          "description": "Original Poster",
+          "user": {
+            "id": 14126,
+            "username": "22f2000957",
+            "name": "Shivani Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f2000957/{size}/12401_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3230,
+            "username": "shriaviator",
+            "name": "Srinivas Chilukuri",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/s/59ef9b/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "Community-TA",
+            "flair_url": "handshake-angle",
+            "flair_bg_color": "717BF7",
+            "flair_color": "6BEE3D",
+            "flair_group_id": 89,
+            "trust_level": 2
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 12082,
+            "username": "PremKumarGupta",
+            "name": "Prem Kumar Gupta ",
+            "avatar_template": "https://avatars.discourse-cdn.com/v4/letter/p/b5ac83/{size}.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        },
+        {
+          "extras": "latest",
+          "description": "Most Recent Poster",
+          "user": {
+            "id": 3009,
+            "username": "Amit1",
+            "name": "Amit Kumar Gupta",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/amit1/{size}/30210_2.png",
+            "primary_group_name": "ds-students",
+            "flair_name": "ds-students",
+            "flair_group_id": 294,
+            "trust_level": 1
+          }
+        }
+      ]
+    }
+  ],
+  "summarizable": false,
+  "valid_reactions": [
+    "heart",
+    "+1",
+    "laughing",
+    "open_mouth",
+    "clap",
+    "confetti_ball",
+    "rocket",
+    "-1"
+  ],
+  "can_vote": false,
+  "vote_count": 0,
+  "user_voted": false,
+  "discourse_zendesk_plugin_zendesk_id": null,
+  "discourse_zendesk_plugin_zendesk_url": "https://your-url.zendesk.com/agent/tickets/",
+  "details": {
+    "can_edit": false,
+    "notification_level": 1,
+    "can_create_post": true,
+    "can_reply_as_new_topic": true,
+    "can_flag_topic": true,
+    "participants": [
+      {
+        "id": 17202,
+        "username": "22f3002811",
+        "name": "Aditya Gupta",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png",
+        "post_count": 4,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 15475,
+        "username": "22f3002293",
+        "name": "Rajat Goel",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002293/{size}/92210_2.png",
+        "post_count": 3,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 2
+      },
+      {
+        "id": 1,
+        "username": "jkmadathil",
+        "name": "Jayakrishnan",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/jkmadathil/{size}/100121_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "course_support",
+        "flair_url": "scale-balanced",
+        "flair_color": "1affc6",
+        "flair_bg_color": "0040ff",
+        "flair_group_id": 41,
+        "admin": true,
+        "trust_level": 4
+      },
+      {
+        "id": 22415,
+        "username": "23f2005059",
+        "name": "Hameed",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2005059/{size}/115851_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
+      },
+      {
+        "id": 34509,
+        "username": "Devanathan",
+        "name": "Aishwarya Maan Srivastava",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/devanathan/{size}/109803_2.png",
+        "post_count": 2,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      },
+      {
+        "id": 23495,
+        "username": "23f2004790",
+        "name": "Rudransh Srivastava",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004790/{size}/67132_2.png",
+        "post_count": 1,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 0
+      }
+    ],
+    "created_by": {
+      "id": 17202,
+      "username": "22f3002811",
+      "name": "Aditya Gupta",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/22f3002811/{size}/66736_2.png"
+    },
+    "last_poster": {
+      "id": 23495,
+      "username": "23f2004790",
+      "name": "Rudransh Srivastava",
+      "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f2004790/{size}/67132_2.png"
+    },
+    "links": [
+      {
+        "url": "https://github.com/AdityaGuptaVarshney/tds-project2/tree/main/goodreads",
+        "title": "tds-project2/goodreads at main · AdityaGuptaVarshney/tds-project2 · GitHub",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 5,
+        "user_id": 17202,
+        "domain": "github.com",
+        "root_domain": "github.com"
+      },
+      {
+        "url": "https://sanand0.github.io/tds-2024-sep-project-2-results/#?sort=id&id=22f3002811&tab=detail",
+        "title": "TDS 2024 Sep Project 2 Results",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1,
+        "domain": "sanand0.github.io",
+        "root_domain": "sanand0.github.io"
+      },
+      {
+        "url": "https://www.s-anand.net/blog/hacking-llms-a-teachers-guide-to-evaluating-with-chatgpt/",
+        "title": "Hacking LLMs: A Teacher's Guide to Evaluating with ChatGPT - S Anand",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1,
+        "domain": "www.s-anand.net",
+        "root_domain": "s-anand.net"
+      },
+      {
+        "url": "https://www.s-anand.net/blog/should-courses-be-hard-or-easy/",
+        "title": "Should courses be hard or easy? - S Anand",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1,
+        "domain": "www.s-anand.net",
+        "root_domain": "s-anand.net"
+      },
+      {
+        "url": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/5",
+        "title": "Wrong marks in Project 2",
+        "internal": true,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "discourse.onlinedegree.iitm.ac.in",
+        "root_domain": "iitm.ac.in"
+      },
+      {
+        "url": "https://github.com/sanand0/tools-in-data-science-public/blob/tds-2024-t3/project2/evaluate.py",
+        "title": "tools-in-data-science-public/project2/evaluate.py at tds-2024-t3 · sanand0/tools-in-data-science-public · GitHub",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "github.com",
+        "root_domain": "github.com"
+      },
+      {
+        "url": "https://sanand0.github.io/tds-2024-sep-project-2-results/#?id=22f3002811&tab=test",
+        "title": "TDS 2024 Sep Project 2 Results",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1,
+        "domain": "sanand0.github.io",
+        "root_domain": "sanand0.github.io"
+      },
+      {
+        "url": "https://youtu.be/ob_OO9chM-o?si=VflTOQmBXe8KJAR1",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 1,
+        "domain": "youtu.be",
+        "root_domain": "youtu.be"
+      }
+    ]
+  },
+  "pending_posts": [],
+  "bookmarks": []
+}
