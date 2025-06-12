@@ -7,6 +7,11 @@ app = Flask(__name__)
 CORS(app)
 
 
+@app.route("/", methods=["GET", "OPTIONS"])
+def home():
+    return "TDS Virtual TA is running."
+
+
 @app.route("/api/", methods=["POST"])
 def answer_api():
     data = request.get_json()
