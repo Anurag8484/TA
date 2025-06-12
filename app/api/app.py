@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from app.engine.answer_engine import generate_answer
 from app.utils.image_utils import extract_text_from_base64_image
 
 app = Flask(__name__)
+CORS(app)
 
 
 @app.route("/api/", methods=["POST"])

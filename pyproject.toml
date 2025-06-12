@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.13.4",
     "flask>=3.1.1",
+    "flask-cors>=6.0.1",
     "markdown>=3.8",
     "markdownify>=1.1.0",
     "numpy>=2.3.0",
